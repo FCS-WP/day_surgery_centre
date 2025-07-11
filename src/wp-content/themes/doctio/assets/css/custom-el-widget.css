@@ -1,0 +1,2862 @@
+/*====================================
+# Section Image CSS
+====================================*/
+.td-section-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    background-repeat: no-repeat;
+}
+
+.elementor-container {
+    z-index: 1;
+}
+
+/*====================================
+# Home Slider CSS
+====================================*/
+
+.td-slider-content-wrapper {
+    position: relative;
+}
+
+.slider-bg-text {
+    font-size: 180px;
+    position: absolute;
+    left: -10px;
+    top: -95px;
+    line-height: 1;
+}
+
+.td-single-slide-item, .td-single-slide-item.slick-slide {
+    height: 800px;
+    display: flex !important;
+    align-items: center;
+}
+
+.slide-subtitle {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    position: relative;
+    display: inline-block;
+    color: #66737d;
+    font-family: 'Poppins', sans-serif;
+}
+
+.td-slide-title h1,
+.td-slide-title h2,
+.td-slide-title h3,
+.td-slide-title h4,
+.td-slide-title h5,
+.td-slide-title h6 {
+    font-size: 85px;
+    line-height: 1;
+    color: #223645;
+    font-weight: 600;
+    position: relative;
+}
+
+.td-slider-content-text {
+    font-size: 18px;
+    line-height: 32px;
+    color: #66737d;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+.slider-button-wrapper {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.slider-button-wrapper .td-button.td-slider-btn-one {
+    margin-right: 10px;
+}
+
+.td-home-slider-wrapper .slick-arrow {
+    position: absolute;
+    top: 50%;
+    margin-top: -30px;
+    left: 50px;
+    z-index: 1;
+    opacity: 0;
+    visibility: hidden;
+    transition: .3s;
+}
+
+.td-home-slider-wrapper:hover .slick-arrow {
+    opacity: 1;
+    visibility: visible;
+}
+
+.td-home-slider-wrapper .slick-arrow.slick-next {
+    left: auto;
+    right: 50px;
+}
+
+.td-home-slider-wrapper .slick-dots {
+    position: absolute;
+    bottom: 40px;
+}
+
+.td-home-slider-wrapper .td-button.td-slider-btn-two:hover {
+    box-shadow: 0 8px 16px 0 rgb(225 35 84 / 15%);
+}
+
+.td-home-slider-wrapper .td-video-button {
+    position: relative;
+    top: auto;
+    left: auto;
+    transform: translate(0);
+    margin-left: 30px;
+}
+
+.td-home-slider-wrapper .td-video-button:before,
+.td-home-slider-wrapper .td-video-button:after {
+    height: 70px;
+    width: 70px;
+}
+
+.td-home-slider-wrapper .td-video-button i {
+    font-size: 15px;
+}
+
+
+.td-slide-left-shape {
+    height: 235px;
+    width: 500px;
+    transform: skew(-12deg, -15deg);
+}
+
+.td-slider-left-image-wrapper {
+    position: absolute;
+    left: -200px;
+    z-index: -1;
+}
+
+@media only screen and (max-width: 1280px) {
+    .td-slide-left-shape {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .td-single-slide-item, .td-single-slide-item.slick-slide {
+        height: 700px;
+    }
+
+    .slider-bg-text {
+        font-size: 120px;
+        top: -70px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-single-slide-item, .td-single-slide-item.slick-slide {
+        height: 450px;
+    }
+
+    .slider-bg-text {
+        font-size: 60px;
+    }
+
+    .slider-bg-text {
+        left: 0;
+        top: -40px;
+    }
+
+    .slide-subtitle {
+        margin-bottom: 10px;
+    }
+
+    .td-slide-title h1, .td-slide-title h2, .td-slide-title h3, .td-slide-title h4, .td-slide-title h5, .td-slide-title h6 {
+        font-size: 32px;
+    }
+
+    .td-slider-content-text {
+        margin-top: 20px;
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .slider-button-wrapper {
+        margin-top: 30px;
+        display: block;
+    }
+
+    .td-home-slider-wrapper .td-video-button {
+        margin-bottom: -8px;
+    }
+
+    .slider-button-wrapper .td-slider-btn-two {
+        margin-top: 10px;
+    }
+}
+
+/*====================================
+# Home Slider Two CSS
+====================================*/
+.td-home-slider-two .td-single-slide-item {
+    background-color: #13232f;
+}
+
+.td-home-slider-two .slide-subtitle {
+    color: #D5D7D8;
+}
+
+.td-home-slider-two .td-slide-title h1,
+.td-home-slider-two .td-slide-title h2,
+.td-home-slider-two .td-slide-title h3,
+.td-home-slider-two .td-slide-title h4,
+.td-home-slider-two .td-slide-title h5,
+.td-home-slider-two .td-slide-title h6,
+.td-home-slider-two .td-slider-content-text {
+    color: #FFFFFF;
+}
+
+.td-slider-bottom-dot-image {
+    position: absolute;
+    max-width: 30%;
+    bottom: 50px;
+    left: 3%;
+    z-index: 1;
+}
+
+.td-home-slider-two .td-slider-content {
+    position: relative;
+    z-index: 2;
+}
+
+.td-slider-right-image {
+    position: absolute;
+    right: 5%;
+    width: 40%;
+    bottom: 70px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .td-slider-right-image {
+        right: 2%;
+        bottom: 100px;
+    }
+
+    .td-slider-bottom-dot-image {
+        max-width: 60%;
+    }
+
+}
+
+@media only screen and (max-width: 991px) {
+    .td-slider-right-image {
+        right: 1%;
+        width: 35%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-slider-right-image {
+        display: none;
+    }
+
+    .td-slider-bottom-dot-image {
+        max-width: 100%;
+    }
+}
+
+/*====================================
+# Icon Box Slider CSS
+====================================*/
+
+.td-icon-slider-item {
+    padding: 65px 15px 25px 15px;
+    border-top: 1px solid #e7ebec;
+    border-right: 1px solid #e7ebec;
+    border-bottom: 1px solid #e7ebec;
+}
+
+.td-icon-slider-box-icon {
+    height: 60px;
+    width: 60px;
+    font-size: 60px;
+    line-height: 60px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transition: .3s;
+}
+
+.td-icon-slider-box-icon:before {
+    position: absolute;
+    content: '';
+    height: 80px;
+    width: 80px;
+    background: #f3f7ef;
+    z-index: -1;
+    border-radius: 50%;
+    top: -25px;
+    left: -10px;
+    transition: .3s;
+}
+
+.td-icon-slide-content-wrapper {
+    position: relative;
+    padding-left: 80px;
+    display: inline-block;
+    text-align: left;
+}
+
+.td-icon-slider-title {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.td-icon-subtitle {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.td-icon-slider-box-icon svg {
+    transition: .3s;
+    height: 60px !important;
+    width: 60px !important;
+}
+
+.td-icon-slide-content-wrapper:hover .td-icon-slider-box-icon:before {
+    background-color: #fcf4f6;
+}
+
+/*====================================
+# Section Title CSS
+====================================*/
+.td-section-title-wrapper {
+    position: relative;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.td-section-title-content {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+}
+
+.td-section-title-bg-text {
+    font-size: 200px;
+    line-height: 1;
+    font-weight: 700;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: -1;
+    top: -70px;
+    min-width: 100%;
+}
+
+.td-section-title-bg-text.left {
+    left: 0;
+    transform: none;
+}
+
+.td-section-title-bg-text.right {
+    left: auto;
+    transform: none;
+    right: 0;
+}
+
+.td-section-subtitle {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.td-section-title-wrapper h1,
+.td-section-title-wrapper h2,
+.td-section-title-wrapper h3,
+.td-section-title-wrapper h4,
+.td-section-title-wrapper h5,
+.td-section-title-wrapper h6 {
+    font-size: 48px;
+    line-height: 58px;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+
+.title-bottom-line {
+    width: 180px;
+    height: 5px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+    .td-section-title-bg-text {
+        font-size: 160px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-section-subtitle {
+        margin-bottom: 10px;
+    }
+
+    .td-section-title-wrapper h1, .td-section-title-wrapper h2, .td-section-title-wrapper h3, .td-section-title-wrapper h4, .td-section-title-wrapper h5, .td-section-title-wrapper h6 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .td-section-title-bg-text {
+        font-size: 70px;
+        top: -35px;
+    }
+
+    .td-section-title-wrapper {
+        margin-bottom: 15px;
+    }
+}
+
+/*====================================
+# Service One CSS
+====================================*/
+.td-service-one-item {
+    margin-bottom: 35px;
+}
+
+.td-service-one-image {
+    height: 270px;
+    width: 100%;
+    display: block;
+}
+
+.service-one-title {
+    display: block;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 5px;
+}
+
+.service-one-content {
+    box-shadow: 0 0 50px rgb(0 0 0 / 7%);
+    padding: 22px 30px 22px 30px;
+    text-align: center;
+    width: 85%;
+    margin: -55px auto 0 auto;
+    background-color: #ffffff;
+    border-radius: 5px;
+    position: relative;
+}
+
+.service-one-description p:last-child {
+    margin-bottom: 0;
+}
+
+.service-one-details-button {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: -35px;
+    opacity: 0;
+    visibility: hidden;
+    transition: .3s;
+    background: #ffffff;
+    border-radius: 5px;
+    padding: 5px 30px 22px 30px;
+    box-shadow: 0 4px 10px -2px rgb(0 0 0 / 7%);
+}
+
+.td-service-one-item:hover .service-one-details-button {
+    opacity: 1;
+    visibility: visible;
+}
+
+@media only screen and (max-width: 1024px) {
+    .td-service-one-item:hover .service-one-details-button {
+        opacity: 0;
+        visibility: hidden;
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .service-one-content {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-service-one-item-wrapper .container {
+        padding: 0;
+    }
+}
+
+/*====================================
+# Service Two CSS
+====================================*/
+.service-two-wrapper {
+    padding: 0 50px;
+}
+
+.td-service-two-item {
+    margin-bottom: 30px;
+}
+
+.td-service-two-image {
+    height: 300px;
+    position: relative;
+}
+
+.td-service-image-and-icon-wrapper {
+    display: block;
+}
+
+.td-service-item-two-icon {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    font-size: 40px;
+    line-height: 70px;
+    text-align: center;
+    box-shadow: 0 0px 8px 0 rgb(225 35 84 / 40%);
+    color: #ffffff;
+    position: absolute;
+    bottom: -30px;
+    right: 30px;
+}
+
+.td-service-item-two-icon svg, .td-service-item-two-icon img {
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin-top: -10px;
+}
+
+.td-service-item-two-icon svg {
+    fill: #FFFFFF;
+}
+
+.td-service-two-content {
+    background-color: #ffffff;
+    padding: 30px;
+    box-shadow: 0 20px 50px rgb(0 0 0 / 10%);
+}
+
+.td-service-two-title {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    margin-bottom: 10px;
+}
+
+.service-two-wrapper .service-two-details-btn {
+    margin-top: 10px;
+}
+
+.td-service-two-subtitle {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+@media only screen and (max-width: 1280px) {
+    .service-two-wrapper {
+        padding: 0 30px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .service-two-wrapper {
+        padding: 0 10px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .service-two-wrapper {
+        padding: 0;
+    }
+}
+
+/*====================================
+# Service Three CSS
+====================================*/
+.td-service-box-three-wrapper .service-style-two-wrapper {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.td-service-box-three-wrapper .td-service-image {
+    height: 420px;
+    width: 360px;
+    display: block;
+}
+
+.td-service-box-three-wrapper .service-style-two-item {
+    margin-bottom: 0;
+    padding: 40px 40px 30px 40px;
+    width: 57%;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.td-service-box-three-wrapper .service-two-title {
+    font-size: 22px;
+    line-height: 32px;
+    margin: 22px 0 15px;
+}
+
+@media only screen and (max-width: 1480px) {
+    .td-service-box-three-wrapper .service-style-two-item {
+        width: 62%;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    .td-service-box-three-wrapper .service-style-two-item {
+        width: 100%;
+        position: relative;
+        right: auto;
+        top: auto;
+        transform: translateY(0%);
+    }
+
+    .td-service-box-three-wrapper .td-service-image {
+        height: 350px;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-service-box-three-wrapper .td-service-image {
+        height: 300px;
+    }
+
+    .td-service-box-three-wrapper .container-fluid {
+        padding: 0;
+    }
+}
+
+/*====================================
+# Minimal Service CSS
+====================================*/
+.td-minimal-service-item {
+    background: #ffffff;
+    box-shadow: 0 5px 35px rgb(0 0 0 / 8%) !important;
+    padding: 30px 30px 30px 30px;
+    margin-bottom: 30px;
+    display: block;
+    border-radius: 5px;
+}
+
+.td-minimal-service-title {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 0;
+    font-weight: 600;
+    margin-top: 25px;
+    transition: .3s;
+}
+
+.td-minimal-service-item:hover .td-service-two-icon,
+.td-minimal-service-item:hover .td-minimal-service-title {
+    color: #ffffff;
+}
+
+.td-minimal-service-item:hover .td-service-two-icon svg {
+    fill: #ffffff;
+}
+
+@media only screen and (max-width: 767px) {
+    .td-minimal-service-wrapper .container,
+    .td-service-four-wrapper .container {
+        padding: 0;
+    }
+
+    .td-minimal-service-item {
+        padding: 30px 25px 30px 25px;
+    }
+
+    .td-minimal-service-title {
+        font-size: 18px;
+    }
+}
+
+/*====================================
+# Service Four CSS
+====================================*/
+
+.td-service-four-wrapper .service-style-two-item {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+/*====================================
+# Two Image With Circle Button CSS
+====================================*/
+.td-tiwcb-wrapper.td-two-image-with-circle-btn {
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+
+
+.td-two-image-with-circle-btn .td-two-image-wrapper {
+    display: inline-block;
+    position: relative;
+}
+
+div img.td-image-one {
+    border-radius: 210px 0 210px 0;
+}
+
+div img.td-image-two {
+    max-width: 50%;
+}
+
+.td-image-two {
+    position: absolute;
+    bottom: -15px;
+    left: -170px;
+}
+
+.td-two-image-with-circle-btn .td-two-image-wrapper .circle-button-wrapper {
+    right: auto;
+    top: -50px;
+    left: -40px;
+    border-radius: 50%;
+}
+
+.td-two-image-with-circle-btn.td-tiwcb-wrapper svg,
+.td-two-image-with-circle-btn.td-tiwcb-wrapper .circle-button-wrapper i {
+    border: none;
+}
+
+.td-two-image-with-circle-btn.td-tiwcb-wrapper .circle-button-wrapper i {
+    background-color: #ffffff;
+}
+
+.td-two-image-with-circle-btn.td-tiwcb-wrapper svg,
+.td-two-image-with-circle-btn.td-tiwcb-wrapper:hover svg {
+    fill: #ffffff;
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1366px) {
+    div img.td-image-two {
+        max-width: 45%;
+    }
+
+    .td-image-two {
+        bottom: 0;
+        left: -30px;
+    }
+
+    .td-two-image-with-circle-btn .td-two-image-wrapper .circle-button-wrapper {
+        left: -30px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    div img.td-image-two {
+        max-width: 45%;
+    }
+
+    .td-image-two {
+        bottom: 0;
+        left: -30px;
+    }
+
+    .td-two-image-with-circle-btn .td-two-image-wrapper .circle-button-wrapper {
+        left: -30px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    div img.td-image-one {
+        border-radius: 5px;
+    }
+
+    .td-image-two {
+        left: 0;
+    }
+
+    .td-two-image-with-circle-btn .td-two-image-wrapper .circle-button-wrapper {
+        left: 0;
+        top: 0;
+    }
+}
+
+/*====================================
+# Three Image With Circle Button CSS
+====================================*/
+.td-tiwcb-wrapper {
+    height: 610px;
+    width: 100%;
+}
+
+.td-tiwcb-first-image {
+    height: 47%;
+    width: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.td-tiwcb-second-image {
+    position: absolute;
+    width: 66%;
+    bottom: 0;
+    right: 30px;
+    height: 48%;
+}
+
+.td-tiwcb-third-image {
+    height: 47%;
+    width: 50%;
+    position: absolute;
+    bottom: 30%;
+    left: -30px
+}
+
+.circle-button-wrapper {
+    height: 180px;
+    width: 180px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: -210px;
+}
+
+.circle-button-wrapper i {
+    position: absolute;
+    height: 110px;
+    width: 110px;
+    text-align: center;
+    line-height: 110px;
+    font-size: 35px;
+    border: 1px solid #ebedee;
+    border-radius: 50%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    transition: .3s;
+}
+
+.circle-button-wrapper.td-secondary-font {
+    font-weight: 600;
+}
+
+.td-tiwcb-wrapper svg {
+    border: 1px solid #ebedee;
+    border-radius: 50%;
+    fill: currentColor;
+    height: 100%;
+    transform-origin: center;
+    width: 100%;
+    transition: .3s;
+}
+
+.td-tiwcb-wrapper svg text {
+    font-size: 8px;
+}
+
+@media only screen and (max-width: 1366px) {
+    .td-tiwcb-third-image {
+        left: 0;
+    }
+
+    .td-tiwcb-first-image, .td-tiwcb-third-image {
+        width: 48%;
+        height: 48%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-tiwcb-wrapper {
+        height: 370px;
+    }
+
+    .circle-button-wrapper {
+        height: 160px;
+        width: 160px;
+        right: 0;
+        top: -175px;
+    }
+
+    .circle-button-wrapper i {
+        height: 100px;
+        width: 100px;
+        line-height: 100px;
+    }
+}
+
+/*====================================
+# Text Widget Css
+====================================*/
+div.td-text-wrapper a {
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+div.td-text-wrapper p:last-child {
+    margin-bottom: 0;
+}
+
+div.td-text-wrapper ul {
+    margin: 25px 0 0 0;
+    padding: 0;
+    list-style: none;
+    font-weight: 500;
+    color: #223645;
+}
+
+div.td-text-wrapper ul li {
+    position: relative;
+    padding-left: 25px;
+}
+
+div.td-text-wrapper ul li:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f058";
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.td-text-wrapper .td-text-btn-wrapper {
+    margin-top: 30px;
+}
+
+div.td-text-wrapper div.td-text-btn-wrapper a.td-text-button {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/*====================================
+# Button Widget Css
+====================================*/
+.themedraft-button-one,
+.themedraft-button-two {
+    display: inline-block;
+}
+
+.themedraft-button.themedraft-button-two {
+    margin-left: 15px;
+}
+
+.td-call-button i {
+    font-size: 40px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transition: .3s;
+}
+
+.td-call-button {
+    position: relative;
+    padding-left: 55px;
+    margin-left: 30px;
+}
+
+.td-call-button-text {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 539px) {
+    .td-call-button, .themedraft-button.themedraft-button-two {
+        margin-left: 0;
+    }
+
+    .td-call-button {
+        margin-top: 30px;
+    }
+
+    .themedraft-button.themedraft-button-two {
+        margin-top: 10px;
+    }
+}
+
+/*====================================
+# Icon Box Css
+====================================*/
+.td-icon-box {
+    margin-bottom: 30px;
+}
+
+.td-icon-box-icon {
+    height: 50px;
+    width: 50px;
+    font-size: 50px;
+    line-height: 50px;
+    margin-bottom: 15px;
+}
+
+.td-icon-title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 0;
+}
+
+/*====================================
+# Service With Center Image
+====================================*/
+.service-style-two-item {
+    box-shadow: 0 20px 50px rgb(0 0 0 / 10%);
+    background: #ffffff;
+    margin-bottom: 80px;
+    padding: 40px 40px 30px 40px;
+    width: 80%;
+    text-align: left;
+    display: inline-block;
+    position: relative;
+}
+
+.td-service-two-icon {
+    height: 60px;
+    width: 60px;
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.service-two-title {
+    font-size: 24px;
+    line-height: 34px;
+    margin: 22px 0 15px;
+}
+
+a.service-two-title {
+    font-weight: 600;
+}
+
+.td-service-image-wrapper {
+    display: table;
+    height: 100%;
+    width: 146%;
+    margin-left: -23%;
+}
+
+.td-service-image {
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.service-two-details-btn {
+    margin-top: 15px;
+}
+
+.service-image-left-side .row [class*="col-"]:nth-child(2) .service-style-two-wrapper,
+.service-image-right-side .row [class*="col-"]:nth-child(1) .service-style-two-wrapper {
+    text-align: right;
+}
+
+.td-service-image img {
+    width: 100% !important;
+}
+
+@media only screen and (max-width: 1280px) {
+    .service-style-two-item {
+        width: 90%;
+    }
+
+    .td-service-image-wrapper {
+        width: 160%;
+        margin-left: -30%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .td-service-image-col {
+        display: none;
+    }
+
+    .service-style-two-item {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-service-and-center-image-wrapper .container {
+        padding: 0;
+    }
+}
+
+/*====================================
+# Team Member One CSS
+====================================*/
+.td-single-team-member {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.td-member-details-url {
+    display: inline-block;
+    position: relative;
+}
+
+.member-image {
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.td-member-content {
+    margin-top: 25px;
+}
+
+.td-member-name {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.td-member-designation.td-secondary-font {
+    display: block;
+    font-weight: 500;
+}
+
+.td-member-btn-text {
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    color: #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 1.5;
+    padding: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    display: table;
+    bottom: -25px;
+    left: -25px;
+    box-shadow: 0 8px 16px 0 rgb(125 178 73 / 15%);
+    transition: .3s;
+}
+
+.td-member-btn-text span {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    width: 100%;
+}
+
+.td-team-one-wrapper ul.slick-dots {
+    position: absolute;
+    bottom: -40px;
+}
+
+.td-team-one-wrapper .slick-arrow {
+    position: absolute;
+    top: 50%;
+    margin-top: -30px;
+    left: -50px;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.td-team-one-wrapper .slick-arrow.slick-next {
+    left: auto;
+    right: -50px;
+}
+
+.td-team-one-wrapper:hover .slick-arrow {
+    opacity: 1;
+    visibility: visible;
+}
+
+@media only screen and (max-width: 1024px) {
+    .td-member-btn-text {
+        left: 10px;
+        bottom: 10px;
+    }
+}
+
+/*====================================
+# Team Member Two CSS
+====================================*/
+
+.td-team-two-wrapper .member-image {
+    height: 270px;
+    width: 270px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.td-team-two-wrapper .member-image img {
+    height: 100%;
+    width: 100%;
+}
+
+.td-member-btn-text.td-team-two-plus-button {
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+    padding: 0;
+    font-size: 20px;
+    left: auto;
+    right: 0;
+    bottom: 25px;
+}
+
+.td-team-member-social {
+    opacity: 0;
+    visibility: hidden;
+    transition: .3s;
+}
+
+.td-team-member-social li a {
+    color: #a6aaac;
+    font-size: 14px;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.td-team-member-social li:last-child a {
+    margin-right: 0;
+}
+
+.td-single-team-member:hover .td-team-member-social {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* Layout Two */
+
+.td-team-two-wrapper.td-team-layout-two .member-image {
+    width: 100%;
+    border-radius: 5px;
+    height: auto;
+}
+
+.td-team-two-wrapper.td-team-layout-two .td-member-btn-text.td-team-two-plus-button {
+    right: 15px;
+    bottom: auto;
+    top: 15px;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.td-team-two-wrapper.td-team-layout-two .td-single-team-member:hover .td-member-btn-text.td-team-two-plus-button {
+    opacity: 1;
+    visibility: visible;
+}
+
+.td-team-two-wrapper.td-team-layout-two .td-team-member-social {
+    opacity: 1;
+    visibility: visible;
+}
+
+
+/*====================================
+# CTA One CSS
+====================================*/
+.td-cta-one-wrapper {
+    padding: 25px 0;
+}
+
+.td-cta-one-wrapper, .td-cta-one-wrapper a,
+.cta-one-text a:hover, .cta-one-text strong {
+    color: #ffffff;
+}
+
+.cta-one-text {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.cta-one-text p:last-child {
+    margin-bottom: 0;
+}
+
+.cta-one-text strong, .cta-one-text a {
+    font-weight: 600;
+}
+
+div.cta-one-text a {
+    text-decoration: underline;
+}
+
+/*====================================
+# Image With Caption CSS
+====================================*/
+.td-img-caption-wrapper {
+    text-align: left;
+}
+
+.td-caption-images {
+    display: inline-block;
+    position: relative;
+    color: #ffffff;
+    margin-bottom: 120px;
+    margin-right: 90px;
+}
+
+.td-caption-img-one {
+    height: 525px;
+    width: 430px;
+}
+
+.td-caption-img-two {
+    height: 340px;
+    width: 340px;
+    position: absolute;
+    bottom: -120px;
+    left: 125px;
+}
+
+.td-img-caption {
+    position: absolute;
+    top: 100px;
+    padding: 50px 40px 35px 40px;
+    max-width: 50%;
+    border-radius: 5px;
+    right: -90px;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.td-img-caption span {
+    font-size: 65px;
+    font-weight: 600;
+    display: block;
+    line-height: 1;
+}
+
+@media only screen and (max-width: 1024px) {
+    .td-img-caption-wrapper {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-caption-images {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 50px;
+    }
+
+    .td-caption-img-one {
+        width: 100%;
+    }
+
+    .td-caption-img-two {
+        display: none;
+    }
+
+    .td-img-caption {
+        max-width: 68%;
+        right: 0;
+        bottom: 0;
+        top: auto;
+        border-radius: 0;
+    }
+}
+
+/*====================================
+# Pricing Table CSS
+====================================*/
+.td-pricing-table-wrapper {
+    background-color: #ffffff;
+    padding: 40px 45px 25px 45px;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 5%);
+}
+
+.pricing-title,
+.td-save-amount {
+    font-weight: 600;
+}
+
+.pricing-title {
+    font-size: 20px;
+    color: #223645;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.td-save-amount {
+    display: inline-block;
+    color: #ffffff;
+    padding: 5px 20px;
+    border-radius: 50px;
+}
+
+.td-currency {
+    font-weight: 500;
+    font-size: 24px;
+    color: #223645;
+}
+
+.td-subscription-period {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.td-price {
+    font-size: 55px;
+    font-weight: 500;
+    line-height: 1;
+    color: #223645;
+}
+
+.td-pricing-features ul li {
+    font-size: 18px;
+    font-weight: 500;
+    position: relative;
+    margin-bottom: 10px;
+    padding-left: 25px;
+}
+
+.td-pricing-features ul li,
+.td-pricing-features ul li a {
+    color: #647589;
+}
+
+.td-pricing-features ul li.td-hidden {
+    opacity: .4;
+}
+
+.td-pricing-list-icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.td-price-wrapper {
+    margin: 35px 0 25px 0;
+}
+
+.td-pricing-button {
+    margin: 30px 0;
+}
+
+@media only screen and (max-width: 991px) {
+    .td-pricing-table-wrapper {
+        padding: 35px 30px 20px 30px;
+    }
+
+    .pricing-title {
+        margin-right: 15px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .pricing-title {
+        margin-right: 10px;
+    }
+
+    .td-save-amount {
+        padding: 4px 15px;
+    }
+}
+
+/*====================================
+# Promo Box CSS
+====================================*/
+.td-single-promo-box {
+    margin-bottom: 30px;
+}
+
+.td-promo-icon {
+    font-size: 60px;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+}
+
+.td-promo-title {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.td-icon-left .td-single-promo-box {
+    position: relative;
+    padding-left: 80px;
+}
+
+.td-icon-left .td-promo-icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.td-icon-left .td-promo-title {
+    margin: 0;
+}
+
+/*====================================
+# Counter Up CSS
+====================================*/
+
+.counter-up-wrapper {
+    position: relative;
+}
+
+.td-counter-content {
+    display: inline-block;
+    text-align: left;
+}
+
+.counter-up-wrapper .td-section-title-bg-text {
+    top: -30px;
+}
+
+.td-counter-box {
+    margin-bottom: 60px;
+    position: relative;
+    z-index: 1;
+}
+
+.td-count-icon {
+    height: 80px;
+    width: 80px;
+    font-size: 80px;
+    line-height: 80px;
+    display: inline-block;
+}
+
+div.td-count-number-and-unit {
+    font-size: 55px;
+    line-height: 1;
+    font-weight: 500;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.td-count-title {
+    font-size: 20px;
+}
+
+.td-count-icon img, .td-count-icon svg {
+    margin-top: -15px;
+}
+
+@media only screen and (max-width: 991px) {
+    div.td-count-number-and-unit {
+        font-size: 45px;
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .counter-up-wrapper .td-section-title-bg-text {
+        top: -15px;
+    }
+
+    div.td-count-number-and-unit {
+        font-size: 35px;
+        margin-top: 20px;
+    }
+}
+
+/*====================================
+# Contact Form 7 CSS
+====================================*/
+
+.td-contact-form-container {
+    padding: 55px 60px 60px 60px;
+    position: relative;
+}
+
+.form-icon {
+    position: absolute;
+    font-size: 300px;
+    color: #93b86f;
+    bottom: 0;
+    line-height: 1;
+    height: 300px;
+    width: 300px;
+    right: 0;
+    z-index: 1;
+}
+
+.td-form-subtitle {
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.themedraft-contact-form-container {
+    position: relative;
+    z-index: 2;
+}
+
+.td-form-title h1, .td-form-title h2, .td-form-title h3, .td-form-title h4, .td-form-title h5, .td-form-title h6 {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+div.themedraft-contact-form-container select,
+div.themedraft-contact-form-container input,
+div.themedraft-contact-form-container textarea {
+    background-color: transparent;
+    border-bottom: 2px solid;
+    border-color: #9fc07f;
+    border-radius: 0;
+    font-weight: 500;
+}
+
+
+div.themedraft-contact-form-container select:focus,
+div.themedraft-contact-form-container input:focus,
+div.themedraft-contact-form-container textarea:focus {
+    border-color: #FFFFFF;
+}
+
+div.themedraft-contact-form-container ::placeholder {
+    color: #FFFFFF;
+}
+
+div.themedraft-contact-form-container :-ms-input-placeholder {
+    color: #FFFFFF;
+}
+
+div.themedraft-contact-form-container ::-ms-input-placeholder {
+    color: #FFFFFF;
+}
+
+div.themedraft-contact-form-container input,
+.themedraft-contact-form-container select,
+.themedraft-contact-form-container textarea,
+.themedraft-contact-form-container input[type="date"] {
+    color: #FFFFFF;
+    width: 100%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 20px;
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    background: transparent;
+    bottom: 0;
+    color: transparent;
+    cursor: pointer;
+    height: auto;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.themedraft-contact-form-container .select-arrow {
+    display: block;
+    position: relative;
+}
+
+.themedraft-contact-form-container form select {
+    height: 60px;
+    margin-bottom: 20px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 15px;
+    padding-left: 0;
+}
+
+.themedraft-contact-form-container .select-arrow:before {
+    position: absolute;
+    height: 1px;
+    width: 1px;
+    right: 15px;
+    top: 29px;
+    content: '';
+    z-index: 1;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    border-top: 5px solid #FFFFFF;
+    cursor: pointer;
+    pointer-events: none;
+}
+
+.themedraft-contact-form-container button[type="submit"] {
+    display: flex;
+    justify-content: center;
+    border: 2px solid;
+    border-color: #ffffff;
+    background-color: transparent;
+    margin-top: 20px;
+}
+
+.themedraft-contact-form-container button[type="submit"]:hover {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.wpcf7 form.invalid .wpcf7-response-output,
+.wpcf7 form.unaccepted .wpcf7-response-output,
+.wpcf7 form.payment-required .wpcf7-response-output,
+.wpcf7 form.sent .wpcf7-response-output {
+    border-color: #ffffff;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+@media only screen and (max-width: 991px) {
+    .td-contact-form-container {
+        padding: 35px 40px 40px 40px;
+    }
+}
+
+/*====================================
+# Contact Form 7 Layout Two CSS
+====================================*/
+.td-cf7-layout-two .td-contact-form-container {
+    background-color: #ffffff;
+    box-shadow: 0 20px 50px rgb(0 0 0 / 10%);
+}
+
+.td-cf7-layout-two .td-section-title-wrapper {
+    text-align: left;
+}
+
+.td-cf7-layout-two div.themedraft-contact-form-container select,
+.td-cf7-layout-two div.themedraft-contact-form-container input,
+.td-cf7-layout-two div.themedraft-contact-form-container textarea {
+    border-color: #dcdee0;
+}
+
+.td-cf7-layout-two .themedraft-contact-form-container .select-arrow:before {
+    border-top: 5px solid #223645;
+}
+
+.td-cf7-layout-two div.themedraft-contact-form-container input,
+.td-cf7-layout-two .themedraft-contact-form-container select,
+.td-cf7-layout-two .themedraft-contact-form-container textarea,
+.td-cf7-layout-two .themedraft-contact-form-container input[type="date"] {
+    color: #223645;
+}
+
+.td-cf7-layout-two div.themedraft-contact-form-container ::placeholder {
+    color: #223645;
+}
+
+.td-cf7-layout-two div.themedraft-contact-form-container :-ms-input-placeholder {
+    color: #223645;
+}
+
+.td-cf7-layout-two div.themedraft-contact-form-container ::-ms-input-placeholder {
+    color: #223645;
+}
+
+
+.td-cf7-layout-two .form-icon {
+    color: #dddddd26;
+}
+
+.td-cf7-layout-two .themedraft-contact-form-container button[type="submit"]:hover {
+    color: #ffffff;
+}
+
+.td-cf7-layout-two .themedraft-contact-form-container button[type="submit"]:hover i:after {
+    background-color: #ffffff;
+}
+
+.td-form-left-image {
+    height: 100%;
+}
+
+@media only screen and (max-width: 991px) {
+    .td-cf7-layout-two .row [class*="col-"].td-pl-0 {
+        padding-left: 15px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-cf7-layout-two .container {
+        padding: 0;
+    }
+
+    .td-cf7-layout-two .row [class*="col-"].td-pl-0 {
+        padding-left: 10px;
+    }
+
+    .td-cf7-layout-two .td-contact-form-container {
+        padding: 25px 30px 30px 30px;
+    }
+}
+
+/*====================================
+# Testimonial CSS
+====================================*/
+.td-testimonial-one-item {
+    position: relative;
+    padding-left: 180px;
+}
+
+.td-testimonial-one-author-image {
+    height: 150px;
+    width: 150px;
+    left: 0;
+    top: 0;
+    border-radius: 50%;
+    overflow: hidden;
+    position: absolute;
+}
+
+.td-testimonial-one-top-image {
+    max-width: 170px;
+    margin-bottom: 30px;
+}
+
+.td-testimonial-one-author-name-designation {
+    position: relative;
+    padding-left: 50px;
+}
+
+.td-testimonial-quote {
+    position: absolute;
+    left: 0;
+    top: 5px;
+    font-size: 35px;
+}
+
+.td-testimonial-one-author-name {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 0;
+}
+
+.td-testimonial-one-desc {
+    padding-right: 20px;
+}
+
+.td-testimonial-one-slider-wrapper {
+    position: relative;
+}
+
+.td-testimonial-one-slider-wrapper .slick-arrow {
+    position: absolute;
+    right: 15px;
+    top: -140px;
+    box-shadow: 0 8px 16px 0 rgb(225 35 84 / 15%);
+}
+
+.td-testimonial-one-slider-wrapper .slick-arrow:hover {
+    box-shadow: 0 8px 16px 0 rgb(125 178 73 / 15%);
+}
+
+.td-testimonial-one-slider-wrapper .slick-arrow.slick-prev {
+    margin-right: 75px;
+}
+
+.td-testimonial-one-slider-wrapper ul.slick-dots {
+    margin-top: 40px;
+}
+
+@media only screen and (max-width: 1280px) {
+    .td-testimonial-one-desc {
+        padding-right: 0;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-testimonial-one-item {
+        padding-left: 0;
+    }
+
+    .td-testimonial-one-author-image {
+        display: none;
+    }
+}
+
+/*====================================
+# Testimonial Two Css
+====================================*/
+.td-testimonial-layout-two .td-testimonial-one-item-wrapper {
+    box-shadow: 0 5px 20px rgb(0 0 0 / 5%);
+    margin: 15px 0;
+    padding: 35px;
+    background-color: #ffffff;
+}
+
+.td-testimonial-layout-two .td-testimonial-one-author-image {
+    height: 80px;
+    width: 80px;
+}
+
+.td-testimonial-layout-two .td-testimonial-one-item {
+    padding-left: 110px;
+}
+
+.td-testimonial-layout-two .td-testimonial-one-author-name-designation {
+    margin-top: 15px;
+}
+
+@media only screen and (max-width: 991px) {
+    .td-testimonial-layout-two .td-testimonial-one-item {
+        padding-left: 0;
+    }
+
+    .td-testimonial-layout-two .td-testimonial-one-author-image {
+        position: relative;
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-testimonial-layout-two .td-testimonial-one-author-image {
+        display: block;
+    }
+}
+
+/*====================================
+# Testimonial Three CSS
+====================================*/
+.td-testimonial-three-top-image-wrapper {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.td-testimonial-three-top-image {
+    max-width: 170px;
+}
+
+.td-testimonial-three-slider-wrapper .td-testimonial-quote {
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: auto;
+}
+
+.td-testimonial-three-author-name-designation {
+    position: relative;
+    padding-left: 80px;
+    margin-top: 30px;
+}
+
+.td-testimonial-three-author-image {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    left: 0;
+    border-radius: 50%;
+}
+
+.td-testimonial-three-slider-wrapper ul.slick-dots {
+    text-align: left;
+    padding-left: 15px;
+    margin-top: 50px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .td-testimonial-three-slider-wrapper .td-testimonial-quote {
+        right: 15px;
+    }
+}
+
+/*====================================
+# Recent Post CSS
+====================================*/
+.td-recent-post-thumbnail {
+    height: 250px;
+    width: 100%;
+    display: inline-block;
+}
+
+.td-recent-post-content {
+    background-color: #ffffff;
+    width: 90%;
+    margin: -60px auto 0 auto;
+    position: relative;
+    padding: 30px;
+    box-shadow: 0 20px 50px rgb(0 0 0 / 10%);
+    border-radius: 5px;
+}
+
+.slick-slider .td-recent-post-content {
+    box-shadow: 0 0px 25px rgb(0 0 0 / 10%);
+}
+
+.td-recent-post-title .post-title {
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 600;
+    transition: .3s;
+}
+
+.td-post-meta.post-meta ul li {
+    margin-right: 10px;
+}
+
+.td-post-meta.post-meta li, .td-post-meta.post-meta li a {
+    color: #647589;
+}
+
+.td-single-post-item {
+    margin-bottom: 30px;
+}
+
+.td-recent-post-el-widget .slick-arrow {
+    position: absolute;
+    top: 50%;
+    margin-top: -45px;
+    left: -100px;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.td-recent-post-el-widget .slick-arrow.slick-next {
+    left: auto;
+    right: -100px;
+}
+
+.td-recent-post-el-widget:hover .slick-arrow {
+    opacity: 1;
+    visibility: visible;
+}
+
+@media only screen and (max-width: 991px) {
+    .td-recent-post-content {
+        width: 100%;
+        margin: -20px auto 0 auto;
+        border-radius: 0 0 5px 5px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-recent-post-el-widget .container {
+        padding: 0;
+    }
+}
+
+/*--------------------------------------------------------------
+# Brand Image Slider Widget Css
+--------------------------------------------------------------*/
+.td-brand-img-wrapper {
+    margin: 0 -15px;
+}
+
+.td-brand-item.slick-slide,
+.td-brand-images {
+    height: 100px;
+}
+
+.td-brand-item.slick-slide {
+    padding: 0 15px;
+}
+
+.td-brand-item.slick-slide img {
+    display: inline-block;
+}
+
+.td-brand-item {
+    text-align: center;
+}
+
+.td-grayscale-enable img {
+    filter: grayscale(100%);
+    transition: .3s;
+}
+
+.td-grayscale-enable img:hover {
+    filter: grayscale(0);
+}
+
+/*====================================
+# Video Popup CSS
+====================================*/
+
+.td-video-image {
+    height: 500px;
+}
+
+.td-img-with-video {
+    position: relative;
+}
+
+.td-video-overlay {
+    background: rgba(1, 14, 34, .6);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+@media only screen and (max-width: 767px) {
+    .td-video-image {
+        height: 350px;
+    }
+}
+
+/*====================================
+# Why Choose Us Widget Css
+====================================*/
+.td-single-choose-box {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.td-choose-box-icon {
+    font-size: 80px;
+    line-height: 80px;
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+}
+
+.td-single-choose-box .td-choose-box-link {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 34px;
+    margin: 20px 0;
+}
+
+.td-choose-box-icon svg, .td-choose-box-icon img {
+    margin-bottom: 15px;
+}
+
+.td-choose-box-desc p:last-child {
+    margin-bottom: 0;
+}
+
+.td-choose-us-wrapper .service-two-details-btn {
+    margin-top: 20px;
+}
+
+/*====================================
+# Masonry Gallery CSS
+====================================*/
+.td-masonry-items-main-container .td-gallery-item-2,
+.td-masonry-items-main-container .td-gallery-item-3,
+.td-masonry-items-main-container .td-gallery-item-4,
+.td-masonry-items-main-container .td-gallery-item-5,
+.td-masonry-items-main-container .td-gallery-item-6,
+.td-masonry-items-main-container .td-gallery-item-7,
+.td-masonry-items-main-container .td-gallery-item-9,
+.td-masonry-items-main-container .td-gallery-item-10 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+.td-masonry-items-main-container .td-popup-image {
+    display: block;
+}
+
+.td-gallery-item-1 .td-masonry-box,
+.td-gallery-item-8 .td-masonry-box {
+    height: 444px;
+}
+
+.td-masonry-box {
+    height: 222px;
+    width: 100%;
+    position: relative;
+}
+
+.td-masonry-overlay {
+    background: rgba(0, 0, 0, .3);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.td-masonry-icon {
+    position: absolute;
+    color: #ffffff;
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    margin-top: -25px;
+    left: 50%;
+    margin-left: -25px;
+    line-height: 50px;
+    z-index: 1;
+}
+
+.td-masonry-overlay, .td-masonry-icon {
+    opacity: 0;
+    visibility: hidden;
+    transition: .3s;
+}
+
+.single-td-masonry-item:hover .td-masonry-overlay,
+.single-td-masonry-item:hover .td-masonry-icon {
+    opacity: 1;
+    visibility: visible;
+}
+
+@media only screen and (max-width: 1280px) {
+    .td-masonry-items-main-container .td-gallery-item-2,
+    .td-masonry-items-main-container .td-gallery-item-3,
+    .td-masonry-items-main-container .td-gallery-item-4,
+    .td-masonry-items-main-container .td-gallery-item-5,
+    .td-masonry-items-main-container .td-gallery-item-6,
+    .td-masonry-items-main-container .td-gallery-item-7,
+    .td-masonry-items-main-container .td-gallery-item-9,
+    .td-masonry-items-main-container .td-gallery-item-10 {
+        -ms-flex: 0 0 24.99%;
+        flex: 0 0 24.99%;
+        max-width: 24.99%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .td-gallery-item-1 .td-masonry-box, .td-gallery-item-8 .td-masonry-box {
+        height: 380px;
+    }
+
+    .td-masonry-box {
+        height: 190px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .td-masonry-item-wrapper {
+        padding: 0 5px;
+    }
+
+    .td-masonry-items-main-container .td-gallery-item-2,
+    .td-masonry-items-main-container .td-gallery-item-3,
+    .td-masonry-items-main-container .td-gallery-item-4,
+    .td-masonry-items-main-container .td-gallery-item-5,
+    .td-masonry-items-main-container .td-gallery-item-6,
+    .td-masonry-items-main-container .td-gallery-item-7,
+    .td-masonry-items-main-container .td-gallery-item-9,
+    .td-masonry-items-main-container .td-gallery-item-10 {
+        -ms-flex: 0 0 24.3%;
+        flex: 0 0 24.3%;
+        max-width: 24.3%;
+    }
+
+
+}
+
+@media only screen and (max-width: 767px) {
+    .td-masonry-items-main-container .td-gallery-item-2,
+    .td-masonry-items-main-container .td-gallery-item-3,
+    .td-masonry-items-main-container .td-gallery-item-4,
+    .td-masonry-items-main-container .td-gallery-item-5,
+    .td-masonry-items-main-container .td-gallery-item-6,
+    .td-masonry-items-main-container .td-gallery-item-7,
+    .td-masonry-items-main-container .td-gallery-item-9,
+    .td-masonry-items-main-container .td-gallery-item-10 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .td-gallery-item-1 .td-masonry-box, .td-gallery-item-8 .td-masonry-box,
+    .td-masonry-box {
+        height: 300px;
+    }
+
+    .td-masonry-item-wrapper {
+        padding: 0;
+    }
+}
+
+/*====================================
+# Title With Text CSS
+====================================*/
+
+.td-title-with-text-wrapper .title {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 15px;
+}
+
+.td-title-with-text-wrapper .desc p:last-child {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 767px) {
+    .td-title-with-text-wrapper .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
+
+/*====================================
+# Skill CSS
+====================================*/
+.td-skills-main-wrapper {
+    height: 524px;
+    text-align: right;
+    position: relative;
+}
+
+.skill-wrapper-image {
+    height: 100%;
+    width: 80%;
+    display: inline-block;
+}
+
+.td-skills-wrapper {
+    box-shadow: 0px 20px 50px rgb(0 0 0 / 10%);
+    padding: 85px 45px 30px 45px;
+    position: absolute;
+    width: 75%;
+    left: 0;
+    bottom: 70px;
+    background: #ffffff;
+}
+
+.td-skills-wrapper .skillbar {
+    width: 100%;
+    height: 8px;
+    background-color: #e4e5e5;
+    position: relative;
+    margin-bottom: 65px;
+    box-sizing: border-box;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.td-skills-wrapper .skillbar:last-child {
+    margin-bottom: 20px;
+}
+
+.skill-title {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    z-index: 1;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000e24;
+    font-weight: 600;
+}
+
+.td-skills-wrapper .count-bar {
+    width: 0;
+    height: 8px;
+    position: relative;
+    text-align: right;
+    padding-right: 0px;
+    color: #282828;
+    border-radius: 10px;
+    overflow: visible !important;
+    font-size: 18px;
+}
+
+.td-skills-wrapper .count-bar .skill-percent-count-wrap {
+    position: absolute;
+    top: -31px;
+    right: 0;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 767px) {
+    .td-skills-main-wrapper {
+        height: 330px;
+    }
+
+    .skill-wrapper-image {
+        width: 100%;
+    }
+
+    .td-skills-wrapper {
+        width: 90%;
+        left: 50%;
+        transform: translate(-50%, 50%);
+        bottom: 50%;
+
+    }
+
+    .td-skills-wrapper {
+        padding: 85px 25px 30px 25px;
+    }
+}
+
+
+/* Circle Progress */
+
+.td-circle-progress-box {
+    display: inline-block;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.td-single-circle-progress .td-count-number-unit {
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    color: #223645;
+    font-size: 24px;
+    font-weight: 500;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    line-height: 120px;
+}
+
+.td-single-circle-progress {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.td-circle-progress-title {
+    font-weight: 600;
+    color: #223645;
+    font-size: 18px;
+}
+
+
+/*--------------------------------------------------------------
+# Team Member Details Tab Css
+--------------------------------------------------------------*/
+.team-member-details-wrapper .td-member-tab-container {
+    padding: 50px 50px 50px 50px;
+    background-color: #f8f9fb;
+}
+
+.team-member-details-wrapper .td-member-tab-container .nav.nav-tabs {
+    justify-content: start;
+    border: none !important;
+}
+
+.team-member-details-wrapper .td-member-tab-container .nav-link {
+    padding: 15px 40px;
+    font-size: 24px;
+    display: inline-flex;
+    align-items: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    border: none !important;
+    justify-content: center;
+    border-radius: 0;
+    margin: 0 10px 10px 0;
+}
+
+.team-member-details-wrapper .td-member-tab-container .nav-link:hover,
+.team-member-details-wrapper .td-member-tab-container .nav-link.active {
+    color: #ffffff;
+}
+
+.team-member-details-wrapper .td-member-tab-container .nav-link:last-child {
+    margin-right: 0;
+}
+
+.team-member-details-wrapper .td-member-tab-container .td-tab-title {
+    margin-bottom: 10px;
+    font-size: 38px;
+    line-height: 48px;
+}
+
+.team-member-details-wrapper .td-tab-subtitle {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.team-member-details-wrapper .tab-description {
+    margin-top: 30px;
+}
+
+.td-tab-content-wrapper strong {
+    margin-top: 25px;
+    display: inherit;
+}
+
+.team-member-details-wrapper .tab-social-icons {
+    margin-top: 40px;
+}
+
+.team-member-details-wrapper .tab-social-icons ul li a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 50%;
+    color: #ffffff;
+    margin-right: 5px;
+}
+
+.team-member-details-wrapper .tab-social-icons ul li a:hover {
+    color: #ffffff;
+}
+
+.team-member-details-wrapper .td-skills-wrapper {
+    box-shadow: none;
+    padding: 0;
+    position: relative;
+    width: auto;
+    left: auto;
+    bottom: auto;
+    background: transparent;
+    margin-top: 75px;
+    transform: translate(0%);
+}
+
+.td-tab-award li {
+    width: 22.4%;
+    text-align: center;
+    margin-right: 15px;
+    margin-top: 30px;
+}
+
+.td-tab-award li:last-child {
+    margin-right: 0;
+}
+
+.td-tab-award li img {
+    max-width: 85%;
+}
+
+@media only screen and (max-width: 1366px) {
+    .td-tab-award li {
+        width: 22.3%;
+    }
+
+    .td-tab-award li img {
+        max-width: 90%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .team-member-details-wrapper .td-member-tab-container .nav-link {
+        padding: 12px 35px;
+    }
+
+    .td-tab-award li {
+        margin-right: 5px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .team-member-details-wrapper .member-image-wrapper {
+        text-align: center;
+        margin-bottom: 45px;
+    }
+
+    .team-member-details-wrapper .member-image-wrapper img {
+        display: block;
+        width: 100%;
+    }
+
+    .team-member-details-wrapper .row [class*="col-"].td-pr-0 {
+        padding-right: 15px;
+    }
+
+    .team-member-details-wrapper .row [class*="col-"].td-pl-0 {
+        padding-left: 15px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .team-member-details-wrapper .container {
+        padding: 0;
+    }
+
+    .team-member-details-wrapper .td-member-tab-container {
+        padding: 20px;
+    }
+
+    .team-member-details-wrapper .td-member-tab-container .nav-link {
+        padding: 10px 15px;
+        font-size: 24px;
+    }
+
+    .team-member-details-wrapper .tab-description {
+        margin-top: 20px;
+    }
+
+    .team-member-details-wrapper .td-member-tab-container .td-tab-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .team-member-details-wrapper .row [class*="col-"].td-pr-0 {
+        padding-right: 10px;
+    }
+
+    .team-member-details-wrapper .row [class*="col-"].td-pl-0 {
+        padding-left: 10px;
+    }
+}
+
+/*====================================
+# Contact Details Box CSS
+====================================*/
+
+.td-contact-details-box {
+    background: #f4f9fc;
+    padding: 45px 30px 40px 135px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.td-contact-details-box-icon {
+    height: 65px;
+    width: 65px;
+    box-shadow: -10px 10px #e12354;
+    position: absolute;
+    left: 45px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 65px;
+    background: #fff;
+}
+
+.td-contact-details-box .td-contact-box-title {
+    font-size: 22px;
+    line-height: 32px;
+    margin: -8px 0 5px 0;
+    font-weight: 600;
+}
+
+.td-contact-details-box ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.entry-content .td-contact-details-box ul li {
+    margin-bottom: 0;
+}
+
+.td-contact-details-box a {
+    color: #223645;
+    font-weight: 400;
+}
+
+.td-contact-details-box p:last-child {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 767px) {
+    .contact-details.container {
+        padding: 0;
+    }
+}
+
+/*--------------------------------------------------------------
+# Portfolio Details Slider Css
+--------------------------------------------------------------*/
+
+.td-service-details-main-slider-item.slick-slide {
+    height: 450px;
+}
+
+.td-service-details-slider-nav {
+    margin: 10px -7px 0 -7px;
+}
+
+.td-service-details-slider-nav img {
+    padding: 7px;
+    cursor: pointer;
+    opacity: .7;
+    transition: .3s;
+}
+
+.td-service-details-slider-nav img:hover, .td-service-details-slider-nav img.slick-current {
+    opacity: 1;
+}
+
+@media only screen and (max-width: 1024px) {
+
+    .td-service-details-main-slider-item.slick-slide {
+        height: 400px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .td-service-details-main-slider-item.slick-slide {
+        height: 250px;
+    }
+}
+
+/*===================================
+Accordion Widget CSS
+====================================*/
+.td-accordion-wrapper {
+    margin-top: 20px;
+}
+
+.td-accordion-title {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 30px;
+}
+
+.td-accordion-wrapper .accordion-button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.td-accordion-wrapper .accordion-item {
+    margin-bottom: 20px;
+}
+
+.td-accordion-wrapper .accordion-item:last-child {
+    margin-bottom: 0;
+}
+
+.td-accordion-wrapper .accordion-collapse {
+    border: none;
+}
+
+.td-accordion-wrapper .accordion-button,
+.td-accordion-wrapper .accordion-body {
+    border: 1px solid #eaebec;
+
+}
+
+.td-accordion-wrapper .accordion-button {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.td-accordion-wrapper .accordion-body {
+    border-top: 0;
+    background: transparent;
+    border-radius: 0;
+    padding: 30px;
+}
+
+.td-accordion-wrapper .accordion-item:first-of-type .accordion-button,
+.td-accordion-wrapper .accordion-item .accordion-button {
+    border-radius: 0;
+}
+
+.td-accordion-wrapper .accordion-item:first-of-type .accordion-button:not(.collapsed),
+.td-accordion-wrapper .accordion-item .accordion-button:not(.collapsed) {
+    border-radius: 0;
+    color: #223645;
+}
+
+.td-accordion-wrapper .accordion-button.collapsed {
+    color: #223645;
+    background-color: transparent;
+}
+
+.td-accordion-wrapper .accordion-button {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.td-accordion-wrapper .accordion-button:hover,
+.td-accordion-wrapper .accordion-button:not(.collapsed) {
+    background: transparent;
+}
+
+.td-accordion-wrapper .accordion-button.collapsed:after,
+.td-accordion-wrapper .accordion-button:not(.collapsed):after {
+    background-image: none;
+    height: 10px;
+    width: 10px;
+    transform: rotate(
+            45deg
+    );
+}
+
+.td-accordion-wrapper .accordion-button.collapsed:after {
+    border-left: 2px solid transparent;
+    border-right: 2px solid;
+    border-top: 2px solid transparent;
+    border-bottom: 2px solid;
+
+}
+
+.td-accordion-wrapper .accordion-button:not(.collapsed):after {
+
+    border-left: 2px solid;
+    border-right: 2px solid transparent;
+    border-top: 2px solid;
+    border-bottom: 2px solid transparent;
+}
+
+.td-accordion-wrapper .accordion-button:after {
+    position: absolute;
+    right: 30px;
+    top: 27px;
+}
+
+.td-accordion-wrapper .accordion-button.collapsed:after {
+    top: 20px;
+}
+
+.td-accordion-wrapper .accordion-body p:last-child {
+    margin-bottom: 0;
+}
+
+.td-accordion-wrapper .accordion-item:last-of-type .accordion-button.collapsed {
+    border-radius: 0;
+}
+
+@media only screen and (max-width: 767px) {
+    .td-accordion-title {
+        font-size: 26px;
+    }
+
+    .td-accordion-wrapper .accordion-button {
+        padding-left: 20px;
+        padding-right: 40px;
+        font-size: 16px;
+    }
+
+    .td-accordion-wrapper .accordion-body {
+        padding: 20px;
+    }
+}
+
+/* Primary Color */
+.td-icon-slide-content-wrapper:hover .td-icon-slider-box-icon,.td-two-image-with-circle-btn.td-tiwcb-wrapper .circle-button-wrapper i,div.td-text-wrapper a,.td-call-button i,.td-recent-post-title .post-title:hover,.td-contact-details-box ul li a:hover{
+    color: #e12354;
+}
+
+.td-home-slider-wrapper .td-button.td-slider-btn-two:hover,.td-home-slider-wrapper .td-video-button:hover:before, .td-home-slider-wrapper .td-video-button:hover:after,.td-service-item-two-icon,.td-two-image-with-circle-btn .td-two-image-wrapper .circle-button-wrapper,.td-member-btn-text:hover,.td-cf7-layout-two .themedraft-contact-form-container button[type="submit"]:hover,.team-member-details-wrapper .td-member-tab-container .nav-link,.team-member-details-wrapper .tab-social-icons ul li a:hover {
+    background-color: #e12354;
+}
+
+.td-home-slider-wrapper .td-button.td-slider-btn-two:hover,.td-cf7-layout-two .themedraft-contact-form-container button[type="submit"]:hover,.team-member-details-wrapper .tab-social-icons ul li a:hover {
+    border-color: #e12354;
+}
+
+.td-icon-slide-content-wrapper:hover .td-icon-slider-box-icon svg {
+    fill: #e12354;
+}
+
+/* Secondary Color */
+.td-icon-slider-box-icon,.td-two-image-with-circle-btn.td-tiwcb-wrapper .circle-button-wrapper:hover i,div.td-text-wrapper a:hover,div.td-text-wrapper ul li:before,.td-team-member-social li a:hover,.td-pricing-list-icon,.td-count-icon,.themedraft-contact-form-container button[type="submit"]:hover,.td-cf7-layout-two .wpcf7 form.invalid .wpcf7-response-output,
+.td-cf7-layout-two .wpcf7 form.unaccepted .wpcf7-response-output,
+.td-cf7-layout-two .wpcf7 form.payment-required .wpcf7-response-output,
+.td-cf7-layout-two .wpcf7 form.sent .wpcf7-response-output{
+    color: #8fb569;
+}
+
+.td-home-slider-wrapper .slick-dots button:hover,.td-home-slider-wrapper .slick-dots .slick-active button,.td-home-slider-wrapper .td-button.td-slider-btn-two,.td-home-slider-wrapper .td-video-button:before,.td-home-slider-wrapper .td-video-button:after,.td-slide-left-shape,.td-minimal-service-item:hover,.td-two-image-with-circle-btn .td-two-image-wrapper .circle-button-wrapper:hover,.td-member-btn-text,.td-img-caption,.td-save-amount,.td-contact-form-container,.themedraft-contact-form-container button[type="submit"]:hover i:after,.td-cf7-layout-two .themedraft-contact-form-container button[type="submit"],.team-member-details-wrapper .td-member-tab-container .nav-link:hover, .team-member-details-wrapper .td-member-tab-container .nav-link.active,.team-member-details-wrapper .tab-social-icons ul li a{
+    background-color: #8fb569;
+}
+
+.td-home-slider-wrapper .td-button.td-slider-btn-two,.td-cf7-layout-two div.themedraft-contact-form-container select:focus,
+.td-cf7-layout-two div.themedraft-contact-form-container input:focus,.td-cf7-layout-two div.themedraft-contact-form-container textarea:focus,.td-cf7-layout-two .themedraft-contact-form-container button[type="submit"],.td-cf7-layout-two .wpcf7 form.invalid .wpcf7-response-output,.td-cf7-layout-two .wpcf7 form.unaccepted .wpcf7-response-output, .td-cf7-layout-two .wpcf7 form.payment-required .wpcf7-response-output,.td-cf7-layout-two .wpcf7 form.sent .wpcf7-response-output,.team-member-details-wrapper .tab-social-icons ul li a{
+    border-color: #8fb569;
+}
+
+.td-icon-slider-box-icon svg,.td-count-icon svg{
+    fill: #8fb569
+}
