@@ -3,7 +3,10 @@
     .site-branding {
       img {
         object-fit: scale-down;
-        @include mobile {
+        @include tablet {
+          width: 310px;
+        }
+        @include desktop {
           width: 310px;
         }
       }
