@@ -1,0 +1,15 @@
+.header-style-two {
+  .main-menu-area {
+    .site-branding {
+      img {
+        object-fit: scale-down;
+        @include tablet {
+          width: 310px;
+        }
+        @include desktop {
+          width: 310px;
+        }
+      }
+    }
+  }
+}

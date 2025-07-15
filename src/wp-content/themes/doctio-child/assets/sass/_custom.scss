@@ -1,0 +1,13 @@
+.home-services {
+  .row {
+    @include desktop {
+      justify-content: space-between;
+      a {
+        padding: 30px 20px;
+      }
+      .col-xl-2 {
+        width: 20%;
+      }
+    }
+  }
+}

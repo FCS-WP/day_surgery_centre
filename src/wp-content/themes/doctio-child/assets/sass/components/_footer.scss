@@ -1,0 +1,42 @@
+.footer-style-two {
+  .td-footer-top-wrapper {
+    display: none;
+    @include tablet {
+      display: block;
+    }
+    @include desktop {
+      display: block;
+    }
+    .td-footer-top-container {
+      @include tablet {
+        padding: 45px 0 10px;
+      }
+      @include desktop {
+        padding: 45px 0;
+      }
+      .site-branding {
+        @include tablet {
+          display: block;
+        }
+        img {
+          object-fit: scale-down;
+          @include tablet {
+            width: 310px;
+          }
+          @include desktop {
+            width: 310px;
+          }
+        }
+      }
+    }
+  }
+  .footer-widget-area {
+    padding: 60px 0 0;
+    @include tablet {
+      padding: 80px 0 45px;
+    }
+    @include desktop {
+      padding: 80px 0 45px;
+    }
+  }
+}
