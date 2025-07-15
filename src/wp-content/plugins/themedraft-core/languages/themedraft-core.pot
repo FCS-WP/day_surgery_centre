@@ -1,0 +1,2919 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeDraft Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-15 04:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: themedraft-core"
+
+#: inc/widgets/custom-navigation-widget.php:82
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:193
+#: elementor-widgets/icon-box-slider-widget.php:209
+#: elementor-widgets/icon-box-slider-widget.php:224
+#: elementor-widgets/icon-box-slider-widget.php:238
+#: elementor-widgets/service-box-one-widget.php:126
+#: elementor-widgets/service-box-one-widget.php:141
+#: elementor-widgets/service-box-one-widget.php:156
+#: elementor-widgets/circle-progress-widget.php:114
+#: elementor-widgets/circle-progress-widget.php:131
+#: elementor-widgets/circle-progress-widget.php:146
+#: elementor-widgets/circle-progress-widget.php:161
+#: elementor-widgets/team-member-one-widget.php:138
+#: elementor-widgets/team-member-one-widget.php:156
+#: elementor-widgets/team-member-one-widget.php:174
+#: elementor-widgets/team-member-one-widget.php:193
+#: elementor-widgets/team-member-one-widget.php:213
+#: elementor-widgets/team-member-one-widget.php:233
+#: elementor-widgets/counter-up-widget.php:168
+#: elementor-widgets/counter-up-widget.php:183
+#: elementor-widgets/counter-up-widget.php:198
+#: elementor-widgets/counter-up-widget.php:213
+#: elementor-widgets/service-box-three-widget.php:224
+#: elementor-widgets/service-box-three-widget.php:239
+#: elementor-widgets/service-box-three-widget.php:254
+#: elementor-widgets/team-member-two-widget.php:141
+#: elementor-widgets/team-member-two-widget.php:159
+#: elementor-widgets/team-member-two-widget.php:177
+#: elementor-widgets/team-member-two-widget.php:196
+#: elementor-widgets/team-member-two-widget.php:216
+#: elementor-widgets/team-member-two-widget.php:236
+#: elementor-widgets/service-minimal-widget.php:147
+#: elementor-widgets/service-minimal-widget.php:163
+#: elementor-widgets/service-minimal-widget.php:178
+#: elementor-widgets/service-minimal-widget.php:193
+#: elementor-widgets/testimonial-slider-two-widget.php:163
+#: elementor-widgets/testimonial-slider-two-widget.php:180
+#: elementor-widgets/testimonial-slider-two-widget.php:197
+#: elementor-widgets/icon-box-widget.php:134
+#: elementor-widgets/icon-box-widget.php:151
+#: elementor-widgets/icon-box-widget.php:168
+#: elementor-widgets/icon-box-widget.php:185
+#: elementor-widgets/why-choose-us-widget.php:168
+#: elementor-widgets/why-choose-us-widget.php:183
+#: elementor-widgets/why-choose-us-widget.php:198
+#: elementor-widgets/testimonial-slider-one-widget.php:197
+#: elementor-widgets/testimonial-slider-one-widget.php:214
+#: elementor-widgets/testimonial-slider-one-widget.php:231
+#: elementor-widgets/promo-box-widget.php:156
+#: elementor-widgets/promo-box-widget.php:173
+#: elementor-widgets/promo-box-widget.php:190
+#: elementor-widgets/brand-image-slider-widget.php:180
+#: elementor-widgets/brand-image-slider-widget.php:203
+#: elementor-widgets/brand-image-slider-widget.php:226
+#: elementor-widgets/brand-image-slider-widget.php:249
+#: elementor-widgets/service-box-two-widget.php:191
+#: elementor-widgets/service-box-two-widget.php:206
+#: elementor-widgets/service-box-two-widget.php:221
+#: elementor-widgets/recent-posts-widget.php:149
+#: elementor-widgets/recent-posts-widget.php:167
+#: elementor-widgets/recent-posts-widget.php:185
+#: elementor-widgets/recent-posts-widget.php:205
+#: elementor-widgets/recent-posts-widget.php:225
+#: elementor-widgets/recent-posts-widget.php:245
+#: elementor-widgets/service-details-slider.php:81
+#: elementor-widgets/service-details-slider.php:104
+#: elementor-widgets/service-details-slider.php:127
+#: elementor-widgets/testimonial-slider-three-widget.php:186
+#: elementor-widgets/testimonial-slider-three-widget.php:203
+#: elementor-widgets/testimonial-slider-three-widget.php:220
+msgid "1 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:189
+#: elementor-widgets/brand-image-slider-widget.php:212
+#: elementor-widgets/brand-image-slider-widget.php:235
+#: elementor-widgets/service-details-slider.php:90
+#: elementor-widgets/service-details-slider.php:113
+msgid "10 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:166
+#: elementor-widgets/home-slider-two-widget.php:314
+#: elementor-widgets/team-member-one-widget.php:285
+#: elementor-widgets/home-slider-widget.php:330
+#: elementor-widgets/team-member-two-widget.php:288
+#: elementor-widgets/testimonial-slider-two-widget.php:135
+#: elementor-widgets/testimonial-slider-one-widget.php:147
+#: elementor-widgets/brand-image-slider-widget.php:153
+#: elementor-widgets/recent-posts-widget.php:288
+#: elementor-widgets/testimonial-slider-three-widget.php:147
+msgid "10 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:190
+#: elementor-widgets/brand-image-slider-widget.php:213
+#: elementor-widgets/brand-image-slider-widget.php:236
+#: elementor-widgets/service-details-slider.php:91
+#: elementor-widgets/service-details-slider.php:114
+msgid "11 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:191
+#: elementor-widgets/brand-image-slider-widget.php:214
+#: elementor-widgets/brand-image-slider-widget.php:237
+#: elementor-widgets/service-details-slider.php:92
+#: elementor-widgets/service-details-slider.php:115
+msgid "12 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:194
+#: elementor-widgets/icon-box-slider-widget.php:210
+#: elementor-widgets/icon-box-slider-widget.php:225
+#: elementor-widgets/icon-box-slider-widget.php:239
+#: elementor-widgets/service-box-one-widget.php:127
+#: elementor-widgets/service-box-one-widget.php:142
+#: elementor-widgets/service-box-one-widget.php:157
+#: elementor-widgets/circle-progress-widget.php:115
+#: elementor-widgets/circle-progress-widget.php:132
+#: elementor-widgets/circle-progress-widget.php:147
+#: elementor-widgets/circle-progress-widget.php:162
+#: elementor-widgets/team-member-one-widget.php:139
+#: elementor-widgets/team-member-one-widget.php:157
+#: elementor-widgets/team-member-one-widget.php:175
+#: elementor-widgets/team-member-one-widget.php:194
+#: elementor-widgets/team-member-one-widget.php:214
+#: elementor-widgets/team-member-one-widget.php:234
+#: elementor-widgets/counter-up-widget.php:169
+#: elementor-widgets/counter-up-widget.php:184
+#: elementor-widgets/counter-up-widget.php:199
+#: elementor-widgets/counter-up-widget.php:214
+#: elementor-widgets/service-box-three-widget.php:225
+#: elementor-widgets/service-box-three-widget.php:240
+#: elementor-widgets/service-box-three-widget.php:255
+#: elementor-widgets/team-member-two-widget.php:142
+#: elementor-widgets/team-member-two-widget.php:160
+#: elementor-widgets/team-member-two-widget.php:178
+#: elementor-widgets/team-member-two-widget.php:197
+#: elementor-widgets/team-member-two-widget.php:217
+#: elementor-widgets/team-member-two-widget.php:237
+#: elementor-widgets/service-minimal-widget.php:148
+#: elementor-widgets/service-minimal-widget.php:164
+#: elementor-widgets/service-minimal-widget.php:179
+#: elementor-widgets/service-minimal-widget.php:194
+#: elementor-widgets/testimonial-slider-two-widget.php:164
+#: elementor-widgets/testimonial-slider-two-widget.php:181
+#: elementor-widgets/testimonial-slider-two-widget.php:198
+#: elementor-widgets/icon-box-widget.php:135
+#: elementor-widgets/icon-box-widget.php:152
+#: elementor-widgets/icon-box-widget.php:169
+#: elementor-widgets/icon-box-widget.php:186
+#: elementor-widgets/why-choose-us-widget.php:169
+#: elementor-widgets/why-choose-us-widget.php:184
+#: elementor-widgets/why-choose-us-widget.php:199
+#: elementor-widgets/testimonial-slider-one-widget.php:198
+#: elementor-widgets/testimonial-slider-one-widget.php:215
+#: elementor-widgets/testimonial-slider-one-widget.php:232
+#: elementor-widgets/promo-box-widget.php:157
+#: elementor-widgets/promo-box-widget.php:174
+#: elementor-widgets/promo-box-widget.php:191
+#: elementor-widgets/brand-image-slider-widget.php:181
+#: elementor-widgets/brand-image-slider-widget.php:204
+#: elementor-widgets/brand-image-slider-widget.php:227
+#: elementor-widgets/brand-image-slider-widget.php:250
+#: elementor-widgets/service-box-two-widget.php:192
+#: elementor-widgets/service-box-two-widget.php:207
+#: elementor-widgets/service-box-two-widget.php:222
+#: elementor-widgets/recent-posts-widget.php:150
+#: elementor-widgets/recent-posts-widget.php:168
+#: elementor-widgets/recent-posts-widget.php:186
+#: elementor-widgets/recent-posts-widget.php:206
+#: elementor-widgets/recent-posts-widget.php:226
+#: elementor-widgets/recent-posts-widget.php:246
+#: elementor-widgets/service-details-slider.php:82
+#: elementor-widgets/service-details-slider.php:105
+#: elementor-widgets/service-details-slider.php:128
+#: elementor-widgets/testimonial-slider-three-widget.php:187
+#: elementor-widgets/testimonial-slider-three-widget.php:204
+#: elementor-widgets/testimonial-slider-three-widget.php:221
+msgid "2 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:158
+#: elementor-widgets/home-slider-two-widget.php:306
+#: elementor-widgets/team-member-one-widget.php:277
+#: elementor-widgets/home-slider-widget.php:322
+#: elementor-widgets/team-member-two-widget.php:280
+#: elementor-widgets/testimonial-slider-two-widget.php:127
+#: elementor-widgets/testimonial-slider-one-widget.php:139
+#: elementor-widgets/brand-image-slider-widget.php:145
+#: elementor-widgets/recent-posts-widget.php:280
+#: elementor-widgets/testimonial-slider-three-widget.php:139
+msgid "2 seconds"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:195
+#: elementor-widgets/icon-box-slider-widget.php:211
+#: elementor-widgets/icon-box-slider-widget.php:226
+#: elementor-widgets/service-box-one-widget.php:128
+#: elementor-widgets/service-box-one-widget.php:143
+#: elementor-widgets/service-box-one-widget.php:158
+#: elementor-widgets/circle-progress-widget.php:116
+#: elementor-widgets/circle-progress-widget.php:133
+#: elementor-widgets/circle-progress-widget.php:148
+#: elementor-widgets/team-member-one-widget.php:140
+#: elementor-widgets/team-member-one-widget.php:158
+#: elementor-widgets/team-member-one-widget.php:176
+#: elementor-widgets/team-member-one-widget.php:195
+#: elementor-widgets/team-member-one-widget.php:215
+#: elementor-widgets/team-member-one-widget.php:235
+#: elementor-widgets/counter-up-widget.php:170
+#: elementor-widgets/counter-up-widget.php:185
+#: elementor-widgets/counter-up-widget.php:200
+#: elementor-widgets/service-box-three-widget.php:226
+#: elementor-widgets/service-box-three-widget.php:241
+#: elementor-widgets/service-box-three-widget.php:256
+#: elementor-widgets/team-member-two-widget.php:143
+#: elementor-widgets/team-member-two-widget.php:161
+#: elementor-widgets/team-member-two-widget.php:179
+#: elementor-widgets/team-member-two-widget.php:198
+#: elementor-widgets/team-member-two-widget.php:218
+#: elementor-widgets/team-member-two-widget.php:238
+#: elementor-widgets/service-minimal-widget.php:149
+#: elementor-widgets/service-minimal-widget.php:165
+#: elementor-widgets/service-minimal-widget.php:180
+#: elementor-widgets/testimonial-slider-two-widget.php:165
+#: elementor-widgets/testimonial-slider-two-widget.php:182
+#: elementor-widgets/testimonial-slider-two-widget.php:199
+#: elementor-widgets/icon-box-widget.php:136
+#: elementor-widgets/icon-box-widget.php:153
+#: elementor-widgets/icon-box-widget.php:170
+#: elementor-widgets/why-choose-us-widget.php:170
+#: elementor-widgets/why-choose-us-widget.php:185
+#: elementor-widgets/why-choose-us-widget.php:200
+#: elementor-widgets/testimonial-slider-one-widget.php:199
+#: elementor-widgets/testimonial-slider-one-widget.php:216
+#: elementor-widgets/testimonial-slider-one-widget.php:233
+#: elementor-widgets/promo-box-widget.php:158
+#: elementor-widgets/promo-box-widget.php:175
+#: elementor-widgets/promo-box-widget.php:192
+#: elementor-widgets/brand-image-slider-widget.php:182
+#: elementor-widgets/brand-image-slider-widget.php:205
+#: elementor-widgets/brand-image-slider-widget.php:228
+#: elementor-widgets/brand-image-slider-widget.php:251
+#: elementor-widgets/service-box-two-widget.php:193
+#: elementor-widgets/service-box-two-widget.php:208
+#: elementor-widgets/service-box-two-widget.php:223
+#: elementor-widgets/recent-posts-widget.php:151
+#: elementor-widgets/recent-posts-widget.php:169
+#: elementor-widgets/recent-posts-widget.php:187
+#: elementor-widgets/recent-posts-widget.php:207
+#: elementor-widgets/recent-posts-widget.php:227
+#: elementor-widgets/recent-posts-widget.php:247
+#: elementor-widgets/service-details-slider.php:83
+#: elementor-widgets/service-details-slider.php:106
+#: elementor-widgets/service-details-slider.php:129
+#: elementor-widgets/testimonial-slider-three-widget.php:188
+#: elementor-widgets/testimonial-slider-three-widget.php:205
+#: elementor-widgets/testimonial-slider-three-widget.php:222
+msgid "3 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:159
+#: elementor-widgets/home-slider-two-widget.php:307
+#: elementor-widgets/team-member-one-widget.php:278
+#: elementor-widgets/home-slider-widget.php:323
+#: elementor-widgets/team-member-two-widget.php:281
+#: elementor-widgets/testimonial-slider-two-widget.php:128
+#: elementor-widgets/testimonial-slider-one-widget.php:140
+#: elementor-widgets/brand-image-slider-widget.php:146
+#: elementor-widgets/recent-posts-widget.php:281
+#: elementor-widgets/testimonial-slider-three-widget.php:140
+msgid "3 seconds"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:196
+#: elementor-widgets/icon-box-slider-widget.php:212
+#: elementor-widgets/service-box-one-widget.php:129
+#: elementor-widgets/service-box-one-widget.php:144
+#: elementor-widgets/service-box-one-widget.php:159
+#: elementor-widgets/circle-progress-widget.php:117
+#: elementor-widgets/circle-progress-widget.php:134
+#: elementor-widgets/circle-progress-widget.php:149
+#: elementor-widgets/team-member-one-widget.php:141
+#: elementor-widgets/team-member-one-widget.php:159
+#: elementor-widgets/team-member-one-widget.php:177
+#: elementor-widgets/team-member-one-widget.php:196
+#: elementor-widgets/team-member-one-widget.php:216
+#: elementor-widgets/team-member-one-widget.php:236
+#: elementor-widgets/counter-up-widget.php:171
+#: elementor-widgets/counter-up-widget.php:186
+#: elementor-widgets/counter-up-widget.php:201
+#: elementor-widgets/service-box-three-widget.php:227
+#: elementor-widgets/service-box-three-widget.php:242
+#: elementor-widgets/service-box-three-widget.php:257
+#: elementor-widgets/team-member-two-widget.php:144
+#: elementor-widgets/team-member-two-widget.php:162
+#: elementor-widgets/team-member-two-widget.php:180
+#: elementor-widgets/team-member-two-widget.php:199
+#: elementor-widgets/team-member-two-widget.php:219
+#: elementor-widgets/team-member-two-widget.php:239
+#: elementor-widgets/service-minimal-widget.php:150
+#: elementor-widgets/service-minimal-widget.php:166
+#: elementor-widgets/service-minimal-widget.php:181
+#: elementor-widgets/testimonial-slider-two-widget.php:166
+#: elementor-widgets/testimonial-slider-two-widget.php:183
+#: elementor-widgets/testimonial-slider-two-widget.php:200
+#: elementor-widgets/icon-box-widget.php:137
+#: elementor-widgets/icon-box-widget.php:154
+#: elementor-widgets/icon-box-widget.php:171
+#: elementor-widgets/why-choose-us-widget.php:171
+#: elementor-widgets/why-choose-us-widget.php:186
+#: elementor-widgets/why-choose-us-widget.php:201
+#: elementor-widgets/testimonial-slider-one-widget.php:200
+#: elementor-widgets/testimonial-slider-one-widget.php:217
+#: elementor-widgets/testimonial-slider-one-widget.php:234
+#: elementor-widgets/promo-box-widget.php:159
+#: elementor-widgets/promo-box-widget.php:176
+#: elementor-widgets/promo-box-widget.php:193
+#: elementor-widgets/brand-image-slider-widget.php:183
+#: elementor-widgets/brand-image-slider-widget.php:206
+#: elementor-widgets/brand-image-slider-widget.php:229
+#: elementor-widgets/brand-image-slider-widget.php:252
+#: elementor-widgets/service-box-two-widget.php:194
+#: elementor-widgets/service-box-two-widget.php:209
+#: elementor-widgets/service-box-two-widget.php:224
+#: elementor-widgets/recent-posts-widget.php:152
+#: elementor-widgets/recent-posts-widget.php:170
+#: elementor-widgets/recent-posts-widget.php:188
+#: elementor-widgets/recent-posts-widget.php:208
+#: elementor-widgets/recent-posts-widget.php:228
+#: elementor-widgets/recent-posts-widget.php:248
+#: elementor-widgets/service-details-slider.php:84
+#: elementor-widgets/service-details-slider.php:107
+#: elementor-widgets/service-details-slider.php:130
+#: elementor-widgets/testimonial-slider-three-widget.php:189
+#: elementor-widgets/testimonial-slider-three-widget.php:206
+#: elementor-widgets/testimonial-slider-three-widget.php:223
+msgid "4 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:160
+#: elementor-widgets/home-slider-two-widget.php:308
+#: elementor-widgets/team-member-one-widget.php:279
+#: elementor-widgets/home-slider-widget.php:324
+#: elementor-widgets/team-member-two-widget.php:282
+#: elementor-widgets/testimonial-slider-two-widget.php:129
+#: elementor-widgets/testimonial-slider-one-widget.php:141
+#: elementor-widgets/brand-image-slider-widget.php:147
+#: elementor-widgets/recent-posts-widget.php:282
+#: elementor-widgets/testimonial-slider-three-widget.php:141
+msgid "4 seconds"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:197
+#: elementor-widgets/circle-progress-widget.php:118
+#: elementor-widgets/icon-box-widget.php:138
+#: elementor-widgets/icon-box-widget.php:155
+#: elementor-widgets/icon-box-widget.php:172
+#: elementor-widgets/promo-box-widget.php:160
+#: elementor-widgets/promo-box-widget.php:177
+#: elementor-widgets/promo-box-widget.php:194
+#: elementor-widgets/brand-image-slider-widget.php:184
+#: elementor-widgets/brand-image-slider-widget.php:207
+#: elementor-widgets/brand-image-slider-widget.php:230
+#: elementor-widgets/service-details-slider.php:85
+#: elementor-widgets/service-details-slider.php:108
+#: elementor-widgets/service-details-slider.php:131
+msgid "5 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:161
+#: elementor-widgets/home-slider-two-widget.php:309
+#: elementor-widgets/team-member-one-widget.php:280
+#: elementor-widgets/home-slider-widget.php:325
+#: elementor-widgets/team-member-two-widget.php:283
+#: elementor-widgets/testimonial-slider-two-widget.php:130
+#: elementor-widgets/testimonial-slider-one-widget.php:142
+#: elementor-widgets/brand-image-slider-widget.php:148
+#: elementor-widgets/recent-posts-widget.php:283
+#: elementor-widgets/testimonial-slider-three-widget.php:142
+msgid "5 seconds"
+msgstr ""
+
+#: elementor-widgets/circle-progress-widget.php:119
+#: elementor-widgets/service-minimal-widget.php:151
+#: elementor-widgets/icon-box-widget.php:139
+#: elementor-widgets/icon-box-widget.php:156
+#: elementor-widgets/icon-box-widget.php:173
+#: elementor-widgets/promo-box-widget.php:161
+#: elementor-widgets/promo-box-widget.php:178
+#: elementor-widgets/promo-box-widget.php:195
+#: elementor-widgets/brand-image-slider-widget.php:185
+#: elementor-widgets/brand-image-slider-widget.php:208
+#: elementor-widgets/brand-image-slider-widget.php:231
+#: elementor-widgets/service-details-slider.php:86
+#: elementor-widgets/service-details-slider.php:109
+#: elementor-widgets/service-details-slider.php:132
+msgid "6 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:162
+#: elementor-widgets/home-slider-two-widget.php:310
+#: elementor-widgets/team-member-one-widget.php:281
+#: elementor-widgets/home-slider-widget.php:326
+#: elementor-widgets/team-member-two-widget.php:284
+#: elementor-widgets/testimonial-slider-two-widget.php:131
+#: elementor-widgets/testimonial-slider-one-widget.php:143
+#: elementor-widgets/brand-image-slider-widget.php:149
+#: elementor-widgets/recent-posts-widget.php:284
+#: elementor-widgets/testimonial-slider-three-widget.php:143
+msgid "6 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:186
+#: elementor-widgets/brand-image-slider-widget.php:209
+#: elementor-widgets/brand-image-slider-widget.php:232
+#: elementor-widgets/service-details-slider.php:87
+#: elementor-widgets/service-details-slider.php:110
+msgid "7 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:163
+#: elementor-widgets/home-slider-two-widget.php:311
+#: elementor-widgets/team-member-one-widget.php:282
+#: elementor-widgets/home-slider-widget.php:327
+#: elementor-widgets/team-member-two-widget.php:285
+#: elementor-widgets/testimonial-slider-two-widget.php:132
+#: elementor-widgets/testimonial-slider-one-widget.php:144
+#: elementor-widgets/brand-image-slider-widget.php:150
+#: elementor-widgets/recent-posts-widget.php:285
+#: elementor-widgets/testimonial-slider-three-widget.php:144
+msgid "7 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:187
+#: elementor-widgets/brand-image-slider-widget.php:210
+#: elementor-widgets/brand-image-slider-widget.php:233
+#: elementor-widgets/service-details-slider.php:88
+#: elementor-widgets/service-details-slider.php:111
+msgid "8 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:164
+#: elementor-widgets/home-slider-two-widget.php:312
+#: elementor-widgets/team-member-one-widget.php:283
+#: elementor-widgets/home-slider-widget.php:328
+#: elementor-widgets/team-member-two-widget.php:286
+#: elementor-widgets/testimonial-slider-two-widget.php:133
+#: elementor-widgets/testimonial-slider-one-widget.php:145
+#: elementor-widgets/brand-image-slider-widget.php:151
+#: elementor-widgets/recent-posts-widget.php:286
+#: elementor-widgets/testimonial-slider-three-widget.php:145
+msgid "8 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:188
+#: elementor-widgets/brand-image-slider-widget.php:211
+#: elementor-widgets/brand-image-slider-widget.php:234
+#: elementor-widgets/service-details-slider.php:89
+#: elementor-widgets/service-details-slider.php:112
+msgid "9 Column"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:165
+#: elementor-widgets/home-slider-two-widget.php:313
+#: elementor-widgets/team-member-one-widget.php:284
+#: elementor-widgets/home-slider-widget.php:329
+#: elementor-widgets/team-member-two-widget.php:287
+#: elementor-widgets/testimonial-slider-two-widget.php:134
+#: elementor-widgets/testimonial-slider-one-widget.php:146
+#: elementor-widgets/brand-image-slider-widget.php:152
+#: elementor-widgets/recent-posts-widget.php:287
+#: elementor-widgets/testimonial-slider-three-widget.php:146
+msgid "9 seconds"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:11
+#: elementor-widgets/accordion-widget.php:25
+#: elementor-widgets/accordion-widget.php:98
+msgid "Accordion"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:45
+msgid "Accordion Content"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:55
+msgid "Accordion Lists"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:35
+msgid "Accordion Title"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:741
+#: elementor-widgets/home-slider-widget.php:757
+msgid "Active Dot Color"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:22
+msgid "Add / edit info text from here."
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:8
+msgid "Add a navigation menu to your sidebar."
+msgstr ""
+
+#: elementor-widgets/masonry-gallery-widget.php:47
+#: elementor-widgets/brand-image-slider-widget.php:105
+msgid "Add Images"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:24
+msgid "Add Info"
+msgstr ""
+
+#: inc/register-custom-posts.php:21 inc/register-custom-posts.php:88
+msgid "Add New"
+msgstr ""
+
+#: inc/register-custom-posts.php:86
+msgid "Add New Member"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:38
+msgid "Add New Profile"
+msgstr ""
+
+#: inc/register-custom-posts.php:19
+msgid "Add New Service"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:31
+#: elementor-widgets/home-slider-widget.php:31
+msgid "Add Slides"
+msgstr ""
+
+#: elementor-widgets/button-widget.php:331
+msgid "Alignment"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:102
+msgid "All Category"
+msgstr ""
+
+#: inc/register-custom-posts.php:87
+msgid "All Members"
+msgstr ""
+
+#: inc/register-custom-posts.php:20
+msgid "All Services"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:105
+msgid "Angle"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:348
+#: elementor-widgets/home-slider-widget.php:364
+msgid "Animation"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:756
+#: elementor-widgets/home-slider-widget.php:772
+msgid "Arrow Background Color"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:784
+#: elementor-widgets/home-slider-widget.php:800
+msgid "Arrow Background Hover Color"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:770
+#: elementor-widgets/home-slider-widget.php:786
+msgid "Arrow Color"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:798
+#: elementor-widgets/home-slider-widget.php:814
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:207
+msgid "Auto"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:142
+#: elementor-widgets/home-slider-two-widget.php:289
+#: elementor-widgets/team-member-one-widget.php:261
+#: elementor-widgets/home-slider-widget.php:305
+#: elementor-widgets/team-member-two-widget.php:264
+#: elementor-widgets/testimonial-slider-two-widget.php:111
+#: elementor-widgets/testimonial-slider-one-widget.php:123
+#: elementor-widgets/brand-image-slider-widget.php:129
+#: elementor-widgets/recent-posts-widget.php:261
+#: elementor-widgets/testimonial-slider-three-widget.php:123
+msgid "Autoplay"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:153
+#: elementor-widgets/home-slider-two-widget.php:301
+#: elementor-widgets/team-member-one-widget.php:272
+#: elementor-widgets/home-slider-widget.php:317
+#: elementor-widgets/team-member-two-widget.php:275
+#: elementor-widgets/testimonial-slider-two-widget.php:122
+#: elementor-widgets/testimonial-slider-one-widget.php:134
+#: elementor-widgets/brand-image-slider-widget.php:140
+#: elementor-widgets/recent-posts-widget.php:275
+#: elementor-widgets/testimonial-slider-three-widget.php:134
+msgid "Autoplay Interval"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:246
+#: elementor-widgets/home-slider-two-widget.php:549
+#: elementor-widgets/home-slider-two-widget.php:582
+#: elementor-widgets/home-slider-two-widget.php:637
+#: elementor-widgets/home-slider-two-widget.php:671
+#: elementor-widgets/circle-progress-widget.php:75
+#: elementor-widgets/contact-form-7.php:78
+#: elementor-widgets/contact-form-7.php:246
+#: elementor-widgets/contact-form-7.php:295
+#: elementor-widgets/counter-up-widget.php:391
+#: elementor-widgets/home-slider-widget.php:565
+#: elementor-widgets/home-slider-widget.php:598
+#: elementor-widgets/home-slider-widget.php:653
+#: elementor-widgets/home-slider-widget.php:687
+#: elementor-widgets/cta-one-widget.php:56
+#: elementor-widgets/service-minimal-widget.php:224
+#: elementor-widgets/service-minimal-widget.php:268
+#: elementor-widgets/contact-form-7-layout-two.php:192
+#: elementor-widgets/contact-form-7-layout-two.php:360
+#: elementor-widgets/contact-form-7-layout-two.php:409
+#: elementor-widgets/button-widget.php:83
+#: elementor-widgets/button-widget.php:116
+#: elementor-widgets/button-widget.php:214
+#: elementor-widgets/button-widget.php:264
+#: elementor-widgets/team-details-widget.php:176
+#: elementor-widgets/team-details-widget.php:252
+#: elementor-widgets/team-details-widget.php:284
+#: elementor-widgets/team-details-widget.php:459
+#: elementor-widgets/team-details-widget.php:502
+#: elementor-widgets/team-details-widget.php:567
+msgid "Background Color"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:41
+#: elementor-widgets/counter-up-widget.php:42
+#: elementor-widgets/counter-up-widget.php:226
+#: elementor-widgets/home-slider-widget.php:41
+#: elementor-widgets/section-title-widget.php:39
+#: elementor-widgets/section-title-widget.php:85
+msgid "Background Text"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:362
+#: elementor-widgets/home-slider-widget.php:378
+msgid "Background Text Option"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:402
+msgid "Bold Text Color"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:234
+#: elementor-widgets/contact-form-7.php:283
+#: elementor-widgets/accordion-widget.php:161
+#: elementor-widgets/contact-form-7-layout-two.php:348
+#: elementor-widgets/contact-form-7-layout-two.php:397
+#: elementor-widgets/team-details-widget.php:481
+#: elementor-widgets/team-details-widget.php:524
+msgid "Border Color"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:137
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:39
+msgid "Bottom Center"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:257
+msgid "Bottom Dot Image"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:138
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:40
+msgid "Bottom Left"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-layout-two.php:70
+#: elementor-widgets/section-title-widget.php:70
+msgid "Bottom Line Image"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:139
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:41
+msgid "Bottom Right"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:334
+msgid "Box Align"
+msgstr ""
+
+#: elementor-widgets/contact-details-box-widget.php:158
+#: elementor-widgets/contact-details-box-widget.php:202
+msgid "Box Background Color"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:251
+msgid "Box Style"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:13
+msgid "Brand Image Slider"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:54
+msgid "Brand Name"
+msgstr ""
+
+#: elementor-widgets/button-widget.php:12
+msgid "Button"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:218
+msgid "Button Background"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:122
+#: elementor-widgets/team-member-one-widget.php:343
+#: elementor-widgets/team-member-one-widget.php:392
+#: elementor-widgets/team-member-two-widget.php:380
+#: elementor-widgets/team-member-two-widget.php:440
+#: elementor-widgets/two-image-with-circle-button-widget.php:120
+#: elementor-widgets/two-image-with-circle-button-widget.php:154
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor-widgets/three-image-with-circle-button-widget.php:141
+msgid "Button Border Color"
+msgstr ""
+
+#: elementor-widgets/three-image-with-circle-button-widget.php:163
+msgid "Button Border Color On Hover"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:133
+#: elementor-widgets/three-image-with-circle-button-widget.php:130
+msgid "Button Color"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:229
+msgid "Button Hover Background"
+msgstr ""
+
+#: elementor-widgets/three-image-with-circle-button-widget.php:152
+msgid "Button Hover Color"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:106
+msgid "Button Link"
+msgstr ""
+
+#: elementor-widgets/button-widget.php:30
+#: elementor-widgets/button-widget.php:65
+msgid "Button One"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:522
+#: elementor-widgets/home-slider-widget.php:538
+msgid "Button One Style"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:94
+#: elementor-widgets/home-slider-widget.php:94
+#: inc/widgets/download-button-widget.php:21
+msgid "Button One Text"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:106
+#: elementor-widgets/home-slider-widget.php:106
+msgid "Button One URL"
+msgstr ""
+
+#: inc/widgets/download-button-widget.php:28
+msgid "Button One Url"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:102
+msgid "Button Size"
+msgstr ""
+
+#: elementor-widgets/two-image-with-circle-button-widget.php:90
+msgid "Button Style"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:103
+#: elementor-widgets/team-member-one-widget.php:103
+#: elementor-widgets/pricing-table-widget.php:96
+#: elementor-widgets/service-with-center-image-widget.php:144
+#: elementor-widgets/service-box-three-widget.php:155
+#: elementor-widgets/why-choose-us-widget.php:144
+#: elementor-widgets/three-image-with-circle-button-widget.php:75
+#: elementor-widgets/service-box-four-widget.php:144
+#: elementor-widgets/service-box-two-widget.php:167
+#: elementor-widgets/two-image-with-circle-button-widget.php:62
+#: elementor-widgets/recent-posts-widget.php:114
+#: elementor-widgets/doctio-text-widget.php:45
+msgid "Button Text"
+msgstr ""
+
+#: elementor-widgets/two-image-with-circle-button-widget.php:108
+#: elementor-widgets/two-image-with-circle-button-widget.php:142
+msgid "Button Text Color"
+msgstr ""
+
+#: elementor-widgets/button-widget.php:145
+#: elementor-widgets/button-widget.php:193
+msgid "Button Two"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:610
+#: elementor-widgets/home-slider-widget.php:626
+msgid "Button Two Style"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:137
+#: elementor-widgets/home-slider-widget.php:137
+#: inc/widgets/download-button-widget.php:42
+msgid "Button Two Text"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:123
+#: elementor-widgets/home-slider-widget.php:123
+msgid "Button Two Type"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:151
+#: elementor-widgets/home-slider-widget.php:151
+msgid "Button Two URL"
+msgstr ""
+
+#: inc/widgets/download-button-widget.php:49
+msgid "Button Two Url"
+msgstr ""
+
+#: elementor-widgets/button-widget.php:153
+msgid "Button Type"
+msgstr ""
+
+#: elementor-widgets/three-image-with-circle-button-widget.php:85
+#: elementor-widgets/two-image-with-circle-button-widget.php:72
+#: elementor-widgets/doctio-text-widget.php:54
+msgid "Button URL"
+msgstr ""
+
+#: elementor-widgets/button-widget.php:158
+msgid "Call Button"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:53
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:98
+msgid "Category:"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:345
+#: elementor-widgets/home-slider-widget.php:245
+#: elementor-widgets/image-with-caption-widget.php:92
+#: elementor-widgets/button-widget.php:342
+#: elementor-widgets/section-title-widget.php:254
+#: elementor-widgets/doctio-text-widget.php:171
+#: elementor-widgets/title-with-text-widget.php:197
+msgid "Center"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:131
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:33
+msgid "Center Center"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:156
+#: elementor-widgets/service-with-center-image-widget.php:164
+msgid "Center Image"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:132
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:34
+msgid "Center Left"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:133
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:35
+msgid "Center Right"
+msgstr ""
+
+#: elementor-widgets/why-choose-us-widget.php:128
+msgid "Choose Us Box List"
+msgstr ""
+
+#: elementor-widgets/circle-progress-widget.php:93
+msgid "Circle List"
+msgstr ""
+
+#: elementor-widgets/circle-progress-widget.php:12
+#: elementor-widgets/circle-progress-widget.php:34
+msgid "Circle Progress"
+msgstr ""
+
+#: elementor-widgets/circle-progress-widget.php:173
+msgid "Circle Style"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:24
+msgid "Classic"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:23
+msgid "Click \"Add Info\" button to add new Information."
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:398
+#: elementor-widgets/home-slider-two-widget.php:449
+#: elementor-widgets/home-slider-two-widget.php:495
+#: elementor-widgets/home-slider-widget.php:414
+#: elementor-widgets/home-slider-widget.php:465
+#: elementor-widgets/home-slider-widget.php:511
+#: elementor-widgets/contact-form-7-layout-two.php:114
+#: elementor-widgets/contact-form-7-layout-two.php:159
+#: elementor-widgets/section-title-widget.php:146
+#: elementor-widgets/section-title-widget.php:191
+#: elementor-widgets/team-details-widget.php:241
+#: elementor-widgets/team-details-widget.php:273
+#: elementor-widgets/team-details-widget.php:391
+#: elementor-widgets/team-details-widget.php:470
+#: elementor-widgets/team-details-widget.php:513
+#: elementor-widgets/doctio-text-widget.php:88
+#: elementor-widgets/title-with-text-widget.php:99
+#: elementor-widgets/title-with-text-widget.php:141
+#: elementor-widgets/controls/gradient-color.php:36
+msgid "Color"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:18
+msgid "Color Type"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-one-widget.php:245
+#: elementor-widgets/testimonial-slider-three-widget.php:234
+msgid "Colors"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:114
+#: elementor-widgets/team-member-one-widget.php:126
+#: elementor-widgets/counter-up-widget.php:156
+#: elementor-widgets/service-box-three-widget.php:212
+#: elementor-widgets/team-member-two-widget.php:129
+#: elementor-widgets/service-minimal-widget.php:135
+#: elementor-widgets/icon-box-widget.php:122
+#: elementor-widgets/why-choose-us-widget.php:156
+#: elementor-widgets/promo-box-widget.php:144
+#: elementor-widgets/service-box-two-widget.php:179
+msgid "Column"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:188
+#: elementor-widgets/team-member-two-widget.php:191
+#: elementor-widgets/testimonial-slider-two-widget.php:158
+#: elementor-widgets/testimonial-slider-one-widget.php:192
+#: elementor-widgets/recent-posts-widget.php:200
+#: elementor-widgets/testimonial-slider-three-widget.php:181
+msgid "Column On Desktop"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:208
+#: elementor-widgets/team-member-two-widget.php:211
+#: elementor-widgets/testimonial-slider-two-widget.php:175
+#: elementor-widgets/testimonial-slider-one-widget.php:209
+#: elementor-widgets/recent-posts-widget.php:220
+#: elementor-widgets/testimonial-slider-three-widget.php:198
+msgid "Column On iPad Pro"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:228
+#: elementor-widgets/team-member-two-widget.php:231
+#: elementor-widgets/testimonial-slider-two-widget.php:192
+#: elementor-widgets/testimonial-slider-one-widget.php:226
+#: elementor-widgets/recent-posts-widget.php:240
+#: elementor-widgets/testimonial-slider-three-widget.php:215
+msgid "Column On Tablet"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:209
+msgid "Columns On  Mobile"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:122
+#: elementor-widgets/circle-progress-widget.php:110
+#: elementor-widgets/team-member-one-widget.php:134
+#: elementor-widgets/counter-up-widget.php:164
+#: elementor-widgets/service-box-three-widget.php:220
+#: elementor-widgets/team-member-two-widget.php:137
+#: elementor-widgets/service-minimal-widget.php:143
+#: elementor-widgets/icon-box-widget.php:130
+#: elementor-widgets/why-choose-us-widget.php:164
+#: elementor-widgets/promo-box-widget.php:152
+#: elementor-widgets/service-box-two-widget.php:187
+#: elementor-widgets/recent-posts-widget.php:145
+msgid "Columns On Desktop"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:152
+#: elementor-widgets/circle-progress-widget.php:142
+#: elementor-widgets/circle-progress-widget.php:157
+#: elementor-widgets/team-member-one-widget.php:170
+#: elementor-widgets/counter-up-widget.php:194
+#: elementor-widgets/service-box-three-widget.php:250
+#: elementor-widgets/team-member-two-widget.php:173
+#: elementor-widgets/service-minimal-widget.php:174
+#: elementor-widgets/icon-box-widget.php:164
+#: elementor-widgets/why-choose-us-widget.php:194
+#: elementor-widgets/promo-box-widget.php:186
+#: elementor-widgets/service-box-two-widget.php:217
+msgid "Columns On iPad"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:137
+#: elementor-widgets/circle-progress-widget.php:127
+#: elementor-widgets/team-member-one-widget.php:152
+#: elementor-widgets/counter-up-widget.php:179
+#: elementor-widgets/service-box-three-widget.php:235
+#: elementor-widgets/team-member-two-widget.php:155
+#: elementor-widgets/service-minimal-widget.php:159
+#: elementor-widgets/icon-box-widget.php:147
+#: elementor-widgets/why-choose-us-widget.php:179
+#: elementor-widgets/promo-box-widget.php:169
+#: elementor-widgets/service-box-two-widget.php:202
+#: elementor-widgets/recent-posts-widget.php:163
+msgid "Columns On iPad Pro"
+msgstr ""
+
+#: elementor-widgets/service-minimal-widget.php:189
+#: elementor-widgets/icon-box-widget.php:181
+msgid "Columns On Mobile"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:181
+msgid "Columns On Tablet"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:133
+msgid "Comment Count"
+msgstr ""
+
+#: elementor-widgets/contact-details-box-widget.php:12
+msgid "Contact Details"
+msgstr ""
+
+#: elementor-widgets/contact-details-box-widget.php:30
+#: elementor-widgets/contact-details-box-widget.php:140
+msgid "Contact Details Box"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:29
+#: elementor-widgets/contact-form-7-layout-two.php:29
+msgid "Contact Form"
+msgstr ""
+
+#: inc/widgets/sidebar-contact-form-widget.php:53
+msgid "Contact form"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:13
+msgid "Contact Form7"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-layout-two.php:13
+msgid "Contact Form7 & Image"
+msgstr ""
+
+#: elementor-widgets/contact-details-box-widget.php:118
+msgid "Contact List"
+msgstr ""
+
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:209
+msgid "Contain"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:358
+#: elementor-widgets/service-minimal-widget.php:304
+msgid "Container Padding"
+msgstr ""
+
+#: elementor-widgets/home-slider-widget.php:234
+msgid "Content Align"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:214
+#: elementor-widgets/home-slider-widget.php:214
+msgid "Content Column Width (%)"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:234
+#: elementor-widgets/home-slider-widget.php:268
+msgid "Content Margin"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:81
+msgid "Content Text"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:135
+msgid "Count Box List"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:64
+msgid "Count Number"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:54
+msgid "Count Title"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:12
+#: elementor-widgets/counter-up-widget.php:34
+#: elementor-widgets/counter-up-widget.php:281
+msgid "Counter Up"
+msgstr ""
+
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:208
+msgid "Cover"
+msgstr ""
+
+#: elementor-widgets/cta-one-widget.php:11
+msgid "CTA One"
+msgstr ""
+
+#: elementor-widgets/cta-one-widget.php:28
+#: elementor-widgets/cta-one-widget.php:36
+msgid "CTA Text"
+msgstr ""
+
+#: elementor-widgets/cta-one-widget.php:48
+msgid "Cta Text"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:56
+msgid "Currency"
+msgstr ""
+
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:42
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:210
+msgid "Custom"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:129
+msgid "Date"
+msgstr ""
+
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:32
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:206
+msgid "Default"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:62
+#: elementor-widgets/pricing-table-widget.php:86
+#: elementor-widgets/service-with-center-image-widget.php:102
+#: elementor-widgets/service-with-center-image-widget.php:252
+#: elementor-widgets/service-box-three-widget.php:114
+#: elementor-widgets/testimonial-slider-two-widget.php:61
+#: elementor-widgets/why-choose-us-widget.php:103
+#: elementor-widgets/testimonial-slider-one-widget.php:53
+#: elementor-widgets/promo-box-widget.php:103
+#: elementor-widgets/service-box-four-widget.php:102
+#: elementor-widgets/service-box-two-widget.php:58
+#: elementor-widgets/testimonial-slider-three-widget.php:53
+#: elementor-widgets/team-details-widget.php:374
+#: elementor-widgets/title-with-text-widget.php:68
+#: elementor-widgets/title-with-text-widget.php:124
+#: inc/widgets/about-company-widget.php:24
+msgid "Description"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:172
+#: elementor-widgets/testimonial-slider-three-widget.php:276
+msgid "Description Color"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:72
+#: elementor-widgets/home-slider-two-widget.php:478
+#: elementor-widgets/home-slider-widget.php:72
+#: elementor-widgets/home-slider-widget.php:494
+msgid "Description Text"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:51
+#: elementor-widgets/team-member-two-widget.php:64
+#: elementor-widgets/testimonial-slider-two-widget.php:51
+#: elementor-widgets/testimonial-slider-one-widget.php:85
+#: elementor-widgets/testimonial-slider-three-widget.php:85
+msgid "Designation"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:347
+#: elementor-widgets/testimonial-slider-two-widget.php:231
+#: elementor-widgets/testimonial-slider-one-widget.php:265
+#: elementor-widgets/testimonial-slider-three-widget.php:254
+msgid "Designation Color"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:189
+#: elementor-widgets/brand-image-slider-widget.php:176
+msgid "Desktop Column"
+msgstr ""
+
+#: elementor-widgets/contact-details-box-widget.php:50
+msgid "Details"
+msgstr ""
+
+#: elementor-widgets/why-choose-us-widget.php:113
+msgid "Details URL"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:72
+#: elementor-widgets/service-box-two-widget.php:135
+msgid "Details Url"
+msgstr ""
+
+#: elementor-widgets/controls/icons.php:58
+msgid "Doctio Icons"
+msgstr ""
+
+#: elementor-widgets/doctio-text-widget.php:11
+msgid "Doctio Text"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:727
+#: elementor-widgets/home-slider-widget.php:743
+msgid "Dot Color"
+msgstr ""
+
+#: inc/widgets/download-button-widget.php:35
+msgid "Download Button One Icon"
+msgstr ""
+
+#: inc/widgets/download-button-widget.php:56
+msgid "Download Button Two Icon"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:76
+msgid "Duration"
+msgstr ""
+
+#: inc/register-custom-posts.php:89
+msgid "Edit Member"
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:92
+msgid "Edit Menu"
+msgstr ""
+
+#: inc/register-custom-posts.php:22
+msgid "Edit Service"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:124
+msgid "Enable Award Image"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:290
+msgid "Enable Grayscale"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:40
+msgid "Enable Image Link"
+msgstr ""
+
+#: elementor-widgets/home-slider-widget.php:280
+msgid "Enable Left Shape"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:27
+msgid "Enable Lightbox Slider"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:60
+msgid "Enable Overlay"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:113
+msgid "Enable Skill"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:113
+#: elementor-widgets/team-member-two-widget.php:116
+#: elementor-widgets/recent-posts-widget.php:124
+msgid "Enable Slider"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:102
+msgid "Enable Social"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:315
+msgid "Excerpt"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:324
+msgid "Excerpt Length"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:64
+msgid "Exclude Posts"
+msgstr ""
+
+#: inc/post-share.php:18
+msgid "Facebook"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:123
+#: elementor-widgets/contact-form-7-layout-two.php:237
+msgid "Field Background Color"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:136
+#: elementor-widgets/contact-form-7-layout-two.php:250
+msgid "Field Border Color"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:149
+#: elementor-widgets/contact-form-7-layout-two.php:263
+msgid "Field Border Color On Focus"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:115
+#: elementor-widgets/contact-form-7-layout-two.php:229
+msgid "Field Style"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:162
+#: elementor-widgets/contact-form-7-layout-two.php:276
+msgid "Field Text Color"
+msgstr ""
+
+#: elementor-widgets/circle-progress-widget.php:84
+#: elementor-widgets/team-details-widget.php:578
+msgid "Fill Color"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:21
+msgid "Gallery"
+msgstr ""
+
+#: elementor-widgets/masonry-gallery-widget.php:38
+msgid "Gallery Id"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:28
+msgid "Gradient"
+msgstr ""
+
+#: elementor-widgets/title-with-text-widget.php:52
+msgid "H1"
+msgstr ""
+
+#: elementor-widgets/title-with-text-widget.php:53
+msgid "H2"
+msgstr ""
+
+#: elementor-widgets/title-with-text-widget.php:54
+msgid "H3"
+msgstr ""
+
+#: elementor-widgets/title-with-text-widget.php:55
+msgid "H4"
+msgstr ""
+
+#: elementor-widgets/title-with-text-widget.php:56
+msgid "H5"
+msgstr ""
+
+#: elementor-widgets/title-with-text-widget.php:57
+msgid "H6"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:81
+msgid "Height"
+msgstr ""
+
+#: elementor-widgets/home-slider-widget.php:12
+msgid "Home Slider"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:12
+msgid "Home Slider Two"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:295
+#: elementor-widgets/home-slider-two-widget.php:575
+#: elementor-widgets/home-slider-two-widget.php:664
+#: elementor-widgets/team-member-one-widget.php:385
+#: elementor-widgets/contact-form-7.php:262
+#: elementor-widgets/home-slider-widget.php:591
+#: elementor-widgets/home-slider-widget.php:680
+#: elementor-widgets/team-member-two-widget.php:433
+#: elementor-widgets/service-minimal-widget.php:261
+#: elementor-widgets/contact-details-box-widget.php:195
+#: elementor-widgets/contact-form-7-layout-two.php:376
+#: elementor-widgets/button-widget.php:109
+#: elementor-widgets/button-widget.php:257
+#: elementor-widgets/two-image-with-circle-button-widget.php:135
+#: elementor-widgets/team-details-widget.php:266
+#: elementor-widgets/team-details-widget.php:495
+msgid "Hover"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themedraft.net/"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:74
+#: elementor-widgets/home-slider-two-widget.php:108
+#: elementor-widgets/home-slider-two-widget.php:154
+#: elementor-widgets/pricing-table-widget.php:108
+#: elementor-widgets/pricing-table-widget.php:159
+#: elementor-widgets/service-with-center-image-widget.php:114
+#: elementor-widgets/service-with-center-image-widget.php:264
+#: elementor-widgets/home-slider-widget.php:108
+#: elementor-widgets/home-slider-widget.php:154
+#: elementor-widgets/service-box-three-widget.php:126
+#: elementor-widgets/service-minimal-widget.php:105
+#: elementor-widgets/why-choose-us-widget.php:115
+#: elementor-widgets/three-image-with-circle-button-widget.php:87
+#: elementor-widgets/button-widget.php:50
+#: elementor-widgets/button-widget.php:178
+#: elementor-widgets/service-box-four-widget.php:114
+#: elementor-widgets/service-box-two-widget.php:137
+#: elementor-widgets/two-image-with-circle-button-widget.php:74
+#: elementor-widgets/doctio-text-widget.php:56
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:65
+#: elementor-widgets/pricing-table-widget.php:143
+#: elementor-widgets/service-with-center-image-widget.php:52
+#: elementor-widgets/service-with-center-image-widget.php:202
+#: elementor-widgets/counter-up-widget.php:88
+#: elementor-widgets/service-box-three-widget.php:64
+#: elementor-widgets/service-minimal-widget.php:53
+#: elementor-widgets/icon-box-widget.php:55
+#: elementor-widgets/contact-details-box-widget.php:68
+#: elementor-widgets/why-choose-us-widget.php:53
+#: elementor-widgets/promo-box-widget.php:53
+#: elementor-widgets/service-box-four-widget.php:52
+#: elementor-widgets/service-box-two-widget.php:73
+#: inc/widgets/about-company-widget.php:50
+#: inc/widgets/contact-info-widget.php:39
+msgid "Icon"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:269
+#: elementor-widgets/icon-box-slider-widget.php:302
+#: elementor-widgets/contact-details-box-widget.php:169
+#: elementor-widgets/contact-details-box-widget.php:213
+#: elementor-widgets/service-box-two-widget.php:242
+msgid "Icon Background Color"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:30
+#: elementor-widgets/icon-box-widget.php:12
+#: elementor-widgets/icon-box-widget.php:30
+msgid "Icon Box"
+msgstr ""
+
+#: elementor-widgets/icon-box-widget.php:105
+msgid "Icon Box List"
+msgstr ""
+
+#: elementor-widgets/service-box-two-widget.php:266
+msgid "Icon Box Shadow"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:115
+msgid "Icon Box Slide List"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:12
+msgid "Icon Box Slider"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:280
+#: elementor-widgets/icon-box-slider-widget.php:313
+#: elementor-widgets/service-with-center-image-widget.php:303
+#: elementor-widgets/counter-up-widget.php:311
+#: elementor-widgets/service-box-three-widget.php:176
+#: elementor-widgets/service-minimal-widget.php:235
+#: elementor-widgets/service-minimal-widget.php:279
+#: elementor-widgets/contact-details-box-widget.php:180
+#: elementor-widgets/contact-details-box-widget.php:224
+#: elementor-widgets/button-widget.php:228
+#: elementor-widgets/button-widget.php:278
+#: elementor-widgets/promo-box-widget.php:213
+#: elementor-widgets/service-box-four-widget.php:167
+#: elementor-widgets/service-box-two-widget.php:253
+#: elementor-widgets/recent-posts-widget.php:409
+msgid "Icon Color"
+msgstr ""
+
+#: elementor-widgets/promo-box-widget.php:129
+msgid "Icon Position"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:60
+#: elementor-widgets/service-with-center-image-widget.php:47
+#: elementor-widgets/service-with-center-image-widget.php:197
+#: elementor-widgets/counter-up-widget.php:83
+#: elementor-widgets/service-box-three-widget.php:59
+#: elementor-widgets/service-minimal-widget.php:48
+#: elementor-widgets/icon-box-widget.php:50
+#: elementor-widgets/contact-details-box-widget.php:63
+#: elementor-widgets/why-choose-us-widget.php:48
+#: elementor-widgets/promo-box-widget.php:48
+#: elementor-widgets/service-box-four-widget.php:47
+#: elementor-widgets/service-box-two-widget.php:68
+msgid "Icon Type"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:69
+#: elementor-widgets/icon-box-slider-widget.php:98
+#: elementor-widgets/video-popup-widget.php:38
+#: elementor-widgets/service-with-center-image-widget.php:56
+#: elementor-widgets/service-with-center-image-widget.php:85
+#: elementor-widgets/service-with-center-image-widget.php:206
+#: elementor-widgets/service-with-center-image-widget.php:235
+#: elementor-widgets/counter-up-widget.php:92
+#: elementor-widgets/counter-up-widget.php:121
+#: elementor-widgets/service-box-three-widget.php:68
+#: elementor-widgets/service-box-three-widget.php:97
+#: elementor-widgets/service-minimal-widget.php:57
+#: elementor-widgets/service-minimal-widget.php:86
+#: elementor-widgets/testimonial-slider-two-widget.php:71
+#: elementor-widgets/icon-box-widget.php:59
+#: elementor-widgets/icon-box-widget.php:88
+#: elementor-widgets/contact-details-box-widget.php:72
+#: elementor-widgets/contact-details-box-widget.php:101
+#: elementor-widgets/why-choose-us-widget.php:57
+#: elementor-widgets/why-choose-us-widget.php:86
+#: elementor-widgets/testimonial-slider-one-widget.php:63
+#: elementor-widgets/promo-box-widget.php:57
+#: elementor-widgets/promo-box-widget.php:86
+#: elementor-widgets/brand-image-slider-widget.php:64
+#: elementor-widgets/service-box-four-widget.php:56
+#: elementor-widgets/service-box-four-widget.php:85
+#: elementor-widgets/service-box-two-widget.php:77
+#: elementor-widgets/service-box-two-widget.php:106
+#: elementor-widgets/testimonial-slider-three-widget.php:63
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:21
+msgid "Image"
+msgstr ""
+
+#: elementor-widgets/image-with-caption-widget.php:11
+#: elementor-widgets/image-with-caption-widget.php:28
+#: elementor-widgets/image-with-caption-widget.php:73
+msgid "Image & Caption"
+msgstr ""
+
+#: elementor-widgets/image-with-caption-widget.php:81
+msgid "Image Align"
+msgstr ""
+
+#: elementor-widgets/image-with-caption-widget.php:60
+msgid "Image Caption"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:76
+msgid "Image Link"
+msgstr ""
+
+#: elementor-widgets/image-with-caption-widget.php:36
+#: elementor-widgets/three-image-with-circle-button-widget.php:36
+#: elementor-widgets/two-image-with-circle-button-widget.php:36
+msgid "Image One"
+msgstr ""
+
+#: elementor-widgets/three-image-with-circle-button-widget.php:62
+msgid "Image Three"
+msgstr ""
+
+#: elementor-widgets/image-with-caption-widget.php:48
+#: elementor-widgets/three-image-with-circle-button-widget.php:49
+#: elementor-widgets/two-image-with-circle-button-widget.php:49
+msgid "Image Two"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:32
+#: elementor-widgets/brand-image-slider-widget.php:91
+#: elementor-widgets/service-details-slider.php:30
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:268
+msgid "Images"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:21
+#: inc/widgets/contact-info-widget.php:32
+msgid "Info Text"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:172
+msgid "Item Hidden"
+msgstr ""
+
+#: elementor-widgets/circle-progress-widget.php:192
+msgid "Item Margin"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:130
+msgid "Last Modified Date"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:39
+msgid "Layout"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:43
+msgid "Layout One"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:44
+msgid "Layout Two"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:340
+#: elementor-widgets/home-slider-widget.php:240
+#: elementor-widgets/image-with-caption-widget.php:87
+#: elementor-widgets/button-widget.php:337
+#: elementor-widgets/promo-box-widget.php:134
+#: elementor-widgets/section-title-widget.php:249
+#: elementor-widgets/doctio-text-widget.php:166
+#: elementor-widgets/title-with-text-widget.php:192
+msgid "Left"
+msgstr ""
+
+#: elementor-widgets/contact-form-7-layout-two.php:37
+msgid "Left Image"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:28
+#: elementor-widgets/service-box-four-widget.php:28
+msgid "Left Services"
+msgstr ""
+
+#: elementor-widgets/home-slider-widget.php:291
+msgid "Left Shape Color"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:93
+msgid "Linear"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:157
+msgid "Link"
+msgstr ""
+
+#: elementor-widgets/doctio-text-widget.php:99
+msgid "Link Color"
+msgstr ""
+
+#: elementor-widgets/doctio-text-widget.php:110
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/post-share.php:30
+msgid "Linkedin"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:183
+msgid "List"
+msgstr ""
+
+#: elementor-widgets/doctio-text-widget.php:121
+msgid "List Icon Color"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:135
+#: elementor-widgets/pricing-table-widget.php:188
+msgid "List Item Text"
+msgstr ""
+
+#: elementor-widgets/doctio-text-widget.php:205
+msgid "List Margin"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:49
+#: elementor-widgets/controls/gradient-color.php:75
+msgid "Location"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:178
+#: elementor-widgets/testimonial-slider-two-widget.php:147
+#: elementor-widgets/testimonial-slider-one-widget.php:159
+#: elementor-widgets/brand-image-slider-widget.php:165
+#: elementor-widgets/testimonial-slider-three-widget.php:159
+msgid "Loop"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:158
+#: elementor-widgets/home-slider-two-widget.php:409
+#: elementor-widgets/home-slider-two-widget.php:462
+#: elementor-widgets/home-slider-two-widget.php:506
+#: elementor-widgets/counter-up-widget.php:255
+#: elementor-widgets/home-slider-widget.php:425
+#: elementor-widgets/home-slider-widget.php:478
+#: elementor-widgets/home-slider-widget.php:522
+#: elementor-widgets/contact-form-7-layout-two.php:125
+#: elementor-widgets/contact-form-7-layout-two.php:170
+#: elementor-widgets/button-widget.php:306
+#: elementor-widgets/section-title-widget.php:112
+#: elementor-widgets/section-title-widget.php:157
+#: elementor-widgets/section-title-widget.php:202
+#: elementor-widgets/section-title-widget.php:276
+#: elementor-widgets/team-details-widget.php:413
+#: elementor-widgets/team-details-widget.php:447
+#: elementor-widgets/title-with-text-widget.php:110
+#: elementor-widgets/title-with-text-widget.php:152
+msgid "Margin"
+msgstr ""
+
+#: elementor-widgets/masonry-gallery-widget.php:13
+msgid "Masonry Gallery"
+msgstr ""
+
+#: elementor-widgets/masonry-gallery-widget.php:30
+msgid "Masonry Images"
+msgstr ""
+
+#: inc/register-custom-posts.php:90
+#: elementor-widgets/team-member-one-widget.php:61
+#: elementor-widgets/team-member-two-widget.php:74
+msgid "Member Image"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:87
+#: elementor-widgets/team-member-two-widget.php:100
+msgid "Member List"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:81
+#: elementor-widgets/team-member-one-widget.php:41
+#: elementor-widgets/team-member-two-widget.php:54
+msgid "Member Name"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:134
+msgid "Menu Order"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:51
+msgid "Menu Text"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:234
+#: elementor-widgets/brand-image-slider-widget.php:245
+msgid "Mobile Column"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-two-widget.php:41
+#: elementor-widgets/testimonial-slider-one-widget.php:75
+#: elementor-widgets/testimonial-slider-three-widget.php:75
+msgid "Name"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:336
+#: elementor-widgets/testimonial-slider-two-widget.php:220
+#: elementor-widgets/testimonial-slider-one-widget.php:254
+#: elementor-widgets/testimonial-slider-three-widget.php:243
+msgid "Name Color"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:354
+#: elementor-widgets/team-member-one-widget.php:403
+#: elementor-widgets/team-member-two-widget.php:402
+#: elementor-widgets/team-member-two-widget.php:462
+#: elementor-widgets/testimonial-slider-one-widget.php:287
+msgid "Nav Arrow Background"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-one-widget.php:301
+msgid "Nav Arrow Hover Background"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:202
+msgid "Nav Button"
+msgstr ""
+
+#: elementor-widgets/service-details-slider.php:77
+msgid "Nav Column On Desktop"
+msgstr ""
+
+#: elementor-widgets/service-details-slider.php:123
+msgid "Nav Column On Mobile"
+msgstr ""
+
+#: elementor-widgets/service-details-slider.php:100
+msgid "Nav Column On Tablet"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:368
+#: elementor-widgets/team-member-one-widget.php:417
+#: elementor-widgets/team-member-two-widget.php:416
+#: elementor-widgets/team-member-two-widget.php:476
+msgid "Nav Dot Background"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-one-widget.php:315
+#: elementor-widgets/testimonial-slider-three-widget.php:287
+msgid "Nav Dots Background"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-one-widget.php:329
+#: elementor-widgets/testimonial-slider-three-widget.php:301
+msgid "Nav Dots Hover Background"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:297
+#: elementor-widgets/team-member-two-widget.php:300
+#: elementor-widgets/testimonial-slider-one-widget.php:170
+#: elementor-widgets/recent-posts-widget.php:301
+msgid "Navigation Arrow"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:326
+#: elementor-widgets/home-slider-widget.php:342
+msgid "Navigation Arrow On Hover"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:337
+#: elementor-widgets/team-member-one-widget.php:308
+#: elementor-widgets/home-slider-widget.php:353
+#: elementor-widgets/team-member-two-widget.php:311
+#: elementor-widgets/testimonial-slider-one-widget.php:181
+#: elementor-widgets/testimonial-slider-three-widget.php:170
+msgid "Navigation Dots"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:63
+#: elementor-widgets/team-member-one-widget.php:116
+#: elementor-widgets/pricing-table-widget.php:175
+#: elementor-widgets/accordion-widget.php:88
+#: elementor-widgets/home-slider-widget.php:283
+#: elementor-widgets/team-member-two-widget.php:119
+#: elementor-widgets/brand-image-slider-widget.php:43
+#: elementor-widgets/brand-image-slider-widget.php:293
+#: elementor-widgets/recent-posts-widget.php:127
+#: elementor-widgets/team-details-widget.php:105
+#: elementor-widgets/team-details-widget.php:116
+#: elementor-widgets/team-details-widget.php:127
+#: inc/widgets/gallery-widget.php:30
+msgid "No"
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:72
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:262
+#: elementor-widgets/home-slider-two-widget.php:127
+#: elementor-widgets/home-slider-two-widget.php:542
+#: elementor-widgets/home-slider-two-widget.php:630
+#: elementor-widgets/team-member-one-widget.php:336
+#: elementor-widgets/contact-form-7.php:213
+#: elementor-widgets/home-slider-widget.php:127
+#: elementor-widgets/home-slider-widget.php:558
+#: elementor-widgets/home-slider-widget.php:646
+#: elementor-widgets/team-member-two-widget.php:373
+#: elementor-widgets/service-minimal-widget.php:217
+#: elementor-widgets/contact-details-box-widget.php:151
+#: elementor-widgets/contact-form-7-layout-two.php:327
+#: elementor-widgets/button-widget.php:76
+#: elementor-widgets/button-widget.php:157
+#: elementor-widgets/button-widget.php:207
+#: elementor-widgets/two-image-with-circle-button-widget.php:101
+#: elementor-widgets/team-details-widget.php:234
+#: elementor-widgets/team-details-widget.php:440
+msgid "Normal"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:289
+msgid "Number & Unit Color"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:41
+msgid "Number Of Post To Show"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:71
+#: elementor-widgets/team-details-widget.php:153
+msgid "Open By Default"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:100
+msgid "Order"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:89
+msgid "Order By"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:144
+msgid "Overlay Color"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:219
+msgid "Padding"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:131
+msgid "Parent Id"
+msgstr ""
+
+#: elementor-widgets/circle-progress-widget.php:54
+msgid "Percentage Number"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:128
+msgid "Position"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:127
+msgid "Post Author"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:91
+msgid "Post Count:"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:126
+msgid "Post ID"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:137
+msgid "Post Layout"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:77
+msgid "Post Offset"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:33
+msgid "Post Settings"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:381
+msgid "Post Style"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:66
+msgid "Price"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:123
+msgid "Pricing Features"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:28
+msgid "Pricing Options"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:11
+#: elementor-widgets/pricing-table-widget.php:199
+msgid "Pricing Table"
+msgstr ""
+
+#: elementor-widgets/promo-box-widget.php:11
+#: elementor-widgets/promo-box-widget.php:28
+#: elementor-widgets/promo-box-widget.php:205
+msgid "Promo Box"
+msgstr ""
+
+#: elementor-widgets/promo-box-widget.php:113
+msgid "Promo List"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-two-widget.php:242
+#: elementor-widgets/testimonial-slider-one-widget.php:276
+#: elementor-widgets/testimonial-slider-three-widget.php:265
+msgid "Quote Color"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:94
+msgid "Radial"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:132
+msgid "Random"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:351
+msgid "Read More Button"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:315
+#: elementor-widgets/service-box-three-widget.php:188
+#: elementor-widgets/service-box-four-widget.php:179
+#: elementor-widgets/service-box-two-widget.php:285
+msgid "Read More Color"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:326
+#: elementor-widgets/service-box-three-widget.php:199
+#: elementor-widgets/service-box-four-widget.php:190
+#: elementor-widgets/service-box-two-widget.php:296
+#: elementor-widgets/recent-posts-widget.php:420
+msgid "Read More Hover Color"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:15
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/register-custom-posts.php:92
+msgid "Remove member image"
+msgstr ""
+
+#: inc/register-custom-posts.php:25
+msgid "Remove Service Image"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:350
+#: elementor-widgets/home-slider-widget.php:250
+#: elementor-widgets/image-with-caption-widget.php:97
+#: elementor-widgets/button-widget.php:347
+#: elementor-widgets/section-title-widget.php:259
+#: elementor-widgets/doctio-text-widget.php:176
+#: elementor-widgets/title-with-text-widget.php:202
+msgid "Right"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:277
+msgid "Right List"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:178
+msgid "Right Services"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:207
+msgid "Save Amount Background"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:46
+msgid "Save Amount Text"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:64
+msgid "Second Color"
+msgstr ""
+
+#: elementor-widgets/section-title-widget.php:13
+#: elementor-widgets/section-title-widget.php:31
+msgid "Section Title"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:58
+#: elementor-widgets/contact-form-7-layout-two.php:82
+msgid "Select Contact Form"
+msgstr ""
+
+#: inc/widgets/sidebar-contact-form-widget.php:54
+msgid "Select contact form"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:104
+msgid "Select Hover Icon"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:81
+#: elementor-widgets/service-with-center-image-widget.php:68
+#: elementor-widgets/service-with-center-image-widget.php:218
+#: elementor-widgets/service-box-three-widget.php:80
+#: elementor-widgets/service-minimal-widget.php:69
+#: elementor-widgets/icon-box-widget.php:71
+#: elementor-widgets/contact-details-box-widget.php:84
+#: elementor-widgets/why-choose-us-widget.php:69
+#: elementor-widgets/promo-box-widget.php:69
+#: elementor-widgets/service-box-four-widget.php:68
+#: elementor-widgets/service-box-two-widget.php:89
+msgid "Select Icon"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:51
+#: inc/widgets/contact-info-widget.php:40
+msgid "Select icon"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:90
+msgid "Select Member"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:80
+#: elementor-widgets/team-member-two-widget.php:93
+msgid "Select member name to associate his/her details page link."
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:95
+msgid ""
+"Select member to associate his/her social profile, skills and award image. "
+"Make sure social profile, skills and award images is already added on member "
+"single page."
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:80
+msgid "Select Menu:"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:68
+msgid "Select post id."
+msgstr ""
+
+#: inc/register-custom-posts.php:18
+msgid "Service"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:11
+msgid "Service & Image"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:30
+#: elementor-widgets/service-minimal-widget.php:206
+#: elementor-widgets/service-box-two-widget.php:28
+#: elementor-widgets/service-box-two-widget.php:234
+msgid "Service Box"
+msgstr ""
+
+#: elementor-widgets/service-box-four-widget.php:11
+msgid "Service Box Four"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:12
+msgid "Service Box One"
+msgstr ""
+
+#: elementor-widgets/service-box-three-widget.php:11
+msgid "Service Box Three"
+msgstr ""
+
+#: elementor-widgets/service-box-two-widget.php:11
+msgid "Service Box Two"
+msgstr ""
+
+#: inc/register-custom-posts.php:45
+msgid "Service Categories"
+msgstr ""
+
+#: elementor-widgets/service-details-slider.php:12
+msgid "Service Details Slider"
+msgstr ""
+
+#: inc/register-custom-posts.php:23
+#: elementor-widgets/service-box-one-widget.php:40
+#: elementor-widgets/service-box-three-widget.php:47
+#: elementor-widgets/service-box-two-widget.php:123
+msgid "Service Image"
+msgstr ""
+
+#: elementor-widgets/service-box-one-widget.php:87
+#: elementor-widgets/service-with-center-image-widget.php:127
+#: elementor-widgets/service-box-three-widget.php:139
+#: elementor-widgets/service-minimal-widget.php:118
+#: elementor-widgets/service-box-four-widget.php:127
+#: elementor-widgets/service-box-two-widget.php:150
+msgid "Service List"
+msgstr ""
+
+#: elementor-widgets/service-minimal-widget.php:11
+msgid "Service Minimal"
+msgstr ""
+
+#: inc/register-custom-posts.php:61
+msgid "Service Tags"
+msgstr ""
+
+#: inc/register-custom-posts.php:17
+#: elementor-widgets/service-box-three-widget.php:28
+#: elementor-widgets/service-minimal-widget.php:28
+msgid "Services"
+msgstr ""
+
+#: inc/register-custom-posts.php:91
+msgid "Set member image"
+msgstr ""
+
+#: inc/register-custom-posts.php:24
+msgid "Set Service Image"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:369
+msgid "Show Author Name"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:360
+msgid "Show Date"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:85
+msgid "Show Number"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:539
+msgid "Skills"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:82
+#: elementor-widgets/home-slider-widget.php:82
+msgid "Slide Image"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:269
+msgid "Slide Image Width (%)"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:167
+#: elementor-widgets/home-slider-widget.php:167
+msgid "Slide List"
+msgstr ""
+
+#: elementor-widgets/service-details-slider.php:49
+msgid "Slider"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:700
+#: elementor-widgets/home-slider-widget.php:716
+msgid "Slider Dot And Arrow"
+msgstr ""
+
+#: elementor-widgets/service-details-slider.php:57
+msgid "Slider Height"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:196
+#: elementor-widgets/home-slider-widget.php:196
+msgid "Slider Height (px)"
+msgstr ""
+
+#: elementor-widgets/service-details-slider.php:38
+msgid "Slider Images"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:134
+#: elementor-widgets/home-slider-two-widget.php:188
+#: elementor-widgets/team-member-one-widget.php:250
+#: elementor-widgets/home-slider-widget.php:188
+#: elementor-widgets/team-member-two-widget.php:253
+#: elementor-widgets/testimonial-slider-two-widget.php:103
+#: elementor-widgets/testimonial-slider-one-widget.php:115
+#: elementor-widgets/brand-image-slider-widget.php:121
+#: elementor-widgets/testimonial-slider-three-widget.php:115
+msgid "Slider Options"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:429
+msgid "Social Icon"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:391
+msgid "Social Icon Color"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:451
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:75
+#: elementor-widgets/team-member-two-widget.php:88
+msgid "Social Profile & <br> Details Link"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:57
+msgid "Social Profile URL"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:37
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:44
+msgid "Social Site Name"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:295
+#: elementor-widgets/service-box-three-widget.php:168
+#: elementor-widgets/service-box-four-widget.php:159
+msgid "Style"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:201
+#: elementor-widgets/contact-form-7-layout-two.php:315
+msgid "Submit Button"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:50
+#: elementor-widgets/home-slider-two-widget.php:51
+#: elementor-widgets/home-slider-two-widget.php:381
+#: elementor-widgets/contact-form-7.php:37
+#: elementor-widgets/home-slider-widget.php:51
+#: elementor-widgets/home-slider-widget.php:397
+#: elementor-widgets/contact-form-7-layout-two.php:49
+#: elementor-widgets/contact-form-7-layout-two.php:94
+#: elementor-widgets/section-title-widget.php:49
+#: elementor-widgets/section-title-widget.php:126
+#: elementor-widgets/service-box-two-widget.php:48
+#: elementor-widgets/team-details-widget.php:71
+#: inc/widgets/sidebar-contact-form-widget.php:46
+msgid "Subtitle"
+msgstr ""
+
+#: elementor-widgets/service-box-two-widget.php:274
+#: elementor-widgets/team-details-widget.php:349
+msgid "Subtitle Color"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:360
+msgid "Subtitle Margin"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:341
+msgid "Subtitle Typography"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:37
+msgid "Tab Image"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:135
+msgid "Tab List"
+msgstr ""
+
+#: elementor-widgets/icon-box-slider-widget.php:205
+#: elementor-widgets/icon-box-slider-widget.php:220
+#: elementor-widgets/brand-image-slider-widget.php:199
+#: elementor-widgets/brand-image-slider-widget.php:222
+msgid "Tablet Column"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:29
+msgid "Tabs"
+msgstr ""
+
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:14
+msgid "TD Section Images"
+msgstr ""
+
+#: inc/register-custom-posts.php:112
+msgid "Team Categories"
+msgstr ""
+
+#: inc/register-custom-posts.php:85
+msgid "Team Member"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:12
+msgid "Team Member Details"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:12
+msgid "Team Member One"
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:325
+#: elementor-widgets/team-member-two-widget.php:328
+msgid "Team Member Style"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:12
+msgid "Team Member Two"
+msgstr ""
+
+#: inc/register-custom-posts.php:84
+#: elementor-widgets/team-member-one-widget.php:31
+#: elementor-widgets/team-member-two-widget.php:31
+msgid "Team Members"
+msgstr ""
+
+#: inc/register-custom-posts.php:128
+msgid "Team Tags"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-two-widget.php:31
+#: elementor-widgets/testimonial-slider-two-widget.php:211
+#: elementor-widgets/testimonial-slider-one-widget.php:31
+#: elementor-widgets/testimonial-slider-three-widget.php:31
+msgid "Testimonials"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-two-widget.php:83
+#: elementor-widgets/testimonial-slider-one-widget.php:95
+#: elementor-widgets/testimonial-slider-three-widget.php:95
+msgid "Testimonials List"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-one-widget.php:13
+msgid "Testimonials One"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-three-widget.php:13
+msgid "Testimonials Three"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-two-widget.php:13
+msgid "Testimonials Two"
+msgstr ""
+
+#: elementor-widgets/pricing-table-widget.php:133
+#: elementor-widgets/button-widget.php:38
+#: elementor-widgets/button-widget.php:166
+#: elementor-widgets/doctio-text-widget.php:35
+msgid "Text"
+msgstr ""
+
+#: elementor-widgets/section-title-widget.php:243
+#: elementor-widgets/doctio-text-widget.php:160
+#: elementor-widgets/title-with-text-widget.php:186
+msgid "Text Align"
+msgstr ""
+
+#: elementor-widgets/doctio-text-widget.php:132
+msgid "Text Button Color"
+msgstr ""
+
+#: elementor-widgets/doctio-text-widget.php:146
+msgid "Text Button Hover Color"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:560
+#: elementor-widgets/home-slider-two-widget.php:593
+#: elementor-widgets/home-slider-two-widget.php:649
+#: elementor-widgets/home-slider-two-widget.php:683
+#: elementor-widgets/circle-progress-widget.php:181
+#: elementor-widgets/contact-form-7.php:220
+#: elementor-widgets/contact-form-7.php:269
+#: elementor-widgets/home-slider-widget.php:576
+#: elementor-widgets/home-slider-widget.php:609
+#: elementor-widgets/home-slider-widget.php:665
+#: elementor-widgets/home-slider-widget.php:699
+#: elementor-widgets/cta-one-widget.php:68
+#: elementor-widgets/service-minimal-widget.php:247
+#: elementor-widgets/service-minimal-widget.php:291
+#: elementor-widgets/contact-form-7-layout-two.php:334
+#: elementor-widgets/contact-form-7-layout-two.php:383
+#: elementor-widgets/button-widget.php:94
+#: elementor-widgets/button-widget.php:127
+#: elementor-widgets/button-widget.php:242
+#: elementor-widgets/button-widget.php:292
+#: elementor-widgets/team-details-widget.php:556
+#: elementor-widgets/controls/gradient-color.php:39
+msgid "Text Color"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:179
+#: elementor-widgets/contact-form-7-layout-two.php:293
+msgid "Textarea Height"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeDraft"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:7
+msgid "ThemeDraft : About Company Widget "
+msgstr ""
+
+#: inc/widgets/sidebar-contact-form-widget.php:31
+msgid "ThemeDraft : Contact Form Widget"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:7
+msgid "ThemeDraft : Contact Info Widget "
+msgstr ""
+
+#: inc/widgets/download-button-widget.php:7
+msgid "ThemeDraft : Download Button"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:7
+msgid "ThemeDraft : Gallery Widget "
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:11
+msgid "ThemeDraft : Navigation Menu"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:8
+msgid "ThemeDraft : Recent Posts"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:9
+msgid "ThemeDraft about company widget."
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:9
+msgid "Themedraft contact info widget."
+msgstr ""
+
+#. Name of the plugin
+msgid "ThemeDraft Core"
+msgstr ""
+
+#: inc/widgets/download-button-widget.php:9
+msgid "ThemeDraft download button widget."
+msgstr ""
+
+#: elementor-widgets/custom-elementor-widgets.php:103
+msgid "ThemeDraft Elements"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:9
+msgid "ThemeDraft photo gallery widget."
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:9
+msgid "ThemeDraft recent posts widget"
+msgstr ""
+
+#: inc/widgets/sidebar-contact-form-widget.php:33
+msgid "ThemeDraft sidebar contact form widget"
+msgstr ""
+
+#: elementor-widgets/doctio-text-widget.php:27
+#: elementor-widgets/doctio-text-widget.php:71
+msgid "ThemeDraft Text"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:57
+msgid "This field is optional."
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin is required for Doctio WordPress theme"
+msgstr ""
+
+#: elementor-widgets/three-image-with-circle-button-widget.php:11
+#: elementor-widgets/three-image-with-circle-button-widget.php:28
+#: elementor-widgets/three-image-with-circle-button-widget.php:102
+msgid "Three Image & Button"
+msgstr ""
+
+#: elementor-widgets/service-box-two-widget.php:307
+#: elementor-widgets/recent-posts-widget.php:389
+msgid "Thumbnail Height"
+msgstr ""
+
+#: inc/themedraft-core-functions.php:128
+#: elementor-widgets/icon-box-slider-widget.php:40
+#: elementor-widgets/service-box-one-widget.php:52
+#: elementor-widgets/home-slider-two-widget.php:61
+#: elementor-widgets/home-slider-two-widget.php:425
+#: elementor-widgets/circle-progress-widget.php:44
+#: elementor-widgets/pricing-table-widget.php:36
+#: elementor-widgets/contact-form-7.php:47
+#: elementor-widgets/service-with-center-image-widget.php:37
+#: elementor-widgets/service-with-center-image-widget.php:187
+#: elementor-widgets/home-slider-widget.php:61
+#: elementor-widgets/home-slider-widget.php:441
+#: elementor-widgets/service-box-three-widget.php:37
+#: elementor-widgets/service-minimal-widget.php:38
+#: elementor-widgets/icon-box-widget.php:40
+#: elementor-widgets/contact-details-box-widget.php:40
+#: elementor-widgets/why-choose-us-widget.php:38
+#: elementor-widgets/contact-form-7-layout-two.php:59
+#: elementor-widgets/contact-form-7-layout-two.php:139
+#: elementor-widgets/promo-box-widget.php:38
+#: elementor-widgets/section-title-widget.php:59
+#: elementor-widgets/section-title-widget.php:171
+#: elementor-widgets/service-box-four-widget.php:37
+#: elementor-widgets/service-box-two-widget.php:38
+#: elementor-widgets/team-details-widget.php:61
+#: elementor-widgets/title-with-text-widget.php:38
+#: elementor-widgets/title-with-text-widget.php:79
+#: inc/widgets/sidebar-contact-form-widget.php:39
+#: inc/widgets/about-company-widget.php:15
+#: inc/widgets/about-company-widget.php:31
+#: inc/widgets/download-button-widget.php:15
+#: inc/widgets/contact-info-widget.php:15 inc/widgets/gallery-widget.php:15
+msgid "Title"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:299
+msgid "Title & Subtitle"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:78
+msgid "Title :"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:127
+msgid "Title Active Color"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:139
+msgid "Title Background"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:300
+#: elementor-widgets/accordion-widget.php:116
+#: elementor-widgets/team-details-widget.php:316
+msgid "Title Color"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:150
+msgid "Title Hover Background"
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:327
+msgid "Title Margin"
+msgstr ""
+
+#: elementor-widgets/title-with-text-widget.php:48
+msgid "Title Tag"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:108
+#: elementor-widgets/team-details-widget.php:308
+msgid "Title Typography"
+msgstr ""
+
+#: elementor-widgets/title-with-text-widget.php:12
+#: elementor-widgets/title-with-text-widget.php:30
+msgid "Title With Text"
+msgstr ""
+
+#: elementor-widgets/recent-posts-widget.php:339
+msgid "Title Word Count"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:85
+msgid "Title Word Count :"
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:76
+msgid "Title:"
+msgstr ""
+
+#: elementor-widgets/promo-box-widget.php:133
+msgid "Top"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:134
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:36
+msgid "Top Center"
+msgstr ""
+
+#: elementor-widgets/testimonial-slider-one-widget.php:41
+#: elementor-widgets/testimonial-slider-three-widget.php:41
+msgid "Top Image"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:135
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:37
+msgid "Top Left"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:136
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:38
+msgid "Top Right"
+msgstr ""
+
+#: inc/post-share.php:24
+msgid "Twitter"
+msgstr ""
+
+#: elementor-widgets/two-image-with-circle-button-widget.php:11
+#: elementor-widgets/two-image-with-circle-button-widget.php:28
+msgid "Two Image & Button"
+msgstr ""
+
+#: elementor-widgets/controls/gradient-color.php:90
+msgid "Type"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:39
+msgid "Type Accordion Title Here"
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:99
+#: elementor-widgets/home-slider-two-widget.php:140
+#: elementor-widgets/home-slider-widget.php:99
+#: elementor-widgets/home-slider-widget.php:140
+msgid "Type button text here."
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:33
+msgid "Type info text here."
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:390
+#: elementor-widgets/home-slider-two-widget.php:434
+#: elementor-widgets/home-slider-two-widget.php:487
+#: elementor-widgets/home-slider-two-widget.php:531
+#: elementor-widgets/home-slider-two-widget.php:619
+#: elementor-widgets/counter-up-widget.php:238
+#: elementor-widgets/home-slider-widget.php:406
+#: elementor-widgets/home-slider-widget.php:450
+#: elementor-widgets/home-slider-widget.php:503
+#: elementor-widgets/home-slider-widget.php:547
+#: elementor-widgets/home-slider-widget.php:635
+#: elementor-widgets/contact-form-7-layout-two.php:106
+#: elementor-widgets/contact-form-7-layout-two.php:151
+#: elementor-widgets/section-title-widget.php:95
+#: elementor-widgets/section-title-widget.php:138
+#: elementor-widgets/section-title-widget.php:183
+#: elementor-widgets/team-details-widget.php:211
+#: elementor-widgets/team-details-widget.php:383
+#: elementor-widgets/team-details-widget.php:548
+#: elementor-widgets/doctio-text-widget.php:80
+#: elementor-widgets/title-with-text-widget.php:91
+#: elementor-widgets/title-with-text-widget.php:133
+msgid "Typography"
+msgstr ""
+
+#: elementor-widgets/masonry-gallery-widget.php:40
+msgid ""
+"Unique id for gallery. Number Only. ( Usefull if you want to use multiple "
+"gallery on same page. )"
+msgstr ""
+
+#: elementor-widgets/circle-progress-widget.php:66
+msgid "Unit"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:112
+#: elementor-widgets/service-with-center-image-widget.php:262
+#: elementor-widgets/service-box-three-widget.php:124
+#: elementor-widgets/service-minimal-widget.php:103
+#: elementor-widgets/button-widget.php:48
+#: elementor-widgets/button-widget.php:176
+#: elementor-widgets/service-box-four-widget.php:112
+msgid "URL"
+msgstr ""
+
+#: elementor-widgets/team-member-two-widget.php:81
+msgid "Use 270x270 pixel Image for better user experience."
+msgstr ""
+
+#: elementor-widgets/team-member-one-widget.php:68
+msgid "Use 270x275 pixel Image for better user experience."
+msgstr ""
+
+#: elementor-widgets/three-image-with-circle-button-widget.php:39
+#: elementor-widgets/three-image-with-circle-button-widget.php:65
+msgid "Use 335 by 285 pixels image for better user experience"
+msgstr ""
+
+#: elementor-widgets/two-image-with-circle-button-widget.php:52
+msgid "Use 375 by 335 pixels png image for better user experience"
+msgstr ""
+
+#: elementor-widgets/three-image-with-circle-button-widget.php:52
+msgid "Use 400 by 290 pixels image for better user experience"
+msgstr ""
+
+#: elementor-widgets/two-image-with-circle-button-widget.php:39
+msgid "Use 535 by 605 pixels image for better user experience"
+msgstr ""
+
+#: elementor-widgets/service-with-center-image-widget.php:167
+msgid "Use 600x705 image for better user experience"
+msgstr ""
+
+#: elementor-widgets/image-with-caption-widget.php:64
+msgid "Use <span></span> tag for big letter."
+msgstr ""
+
+#: inc/register-custom-posts.php:93
+msgid "Use as member image"
+msgstr ""
+
+#: inc/register-custom-posts.php:26
+msgid "Use as services image"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:51
+#: elementor-widgets/contact-form-7-layout-two.php:63
+#: elementor-widgets/section-title-widget.php:63
+msgid "Use H1 - H6 for title."
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:64
+#: elementor-widgets/home-slider-widget.php:64
+msgid "Use Heading ( H1 - H6 ) for title text."
+msgstr ""
+
+#: elementor-widgets/brand-image-slider-widget.php:279
+msgid "Useful for different height's image."
+msgstr ""
+
+#: elementor-widgets/home-slider-two-widget.php:128
+#: elementor-widgets/home-slider-widget.php:128
+msgid "Video"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:12
+#: elementor-widgets/video-popup-widget.php:30
+#: elementor-widgets/video-popup-widget.php:73
+msgid "Video Popup"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:50
+msgid "Video URL"
+msgstr ""
+
+#: elementor-widgets/accordion-widget.php:78
+msgid "Which accordion you want to open by default."
+msgstr ""
+
+#: elementor-widgets/team-details-widget.php:159
+msgid "Which tab you want to open by default."
+msgstr ""
+
+#: elementor-widgets/why-choose-us-widget.php:11
+#: elementor-widgets/why-choose-us-widget.php:28
+msgid "Why Choose Us"
+msgstr ""
+
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:218
+msgid "Width"
+msgstr ""
+
+#: elementor-widgets/section-title-widget.php:224
+msgid "Width (%)"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:70
+#: elementor-widgets/counter-up-widget.php:326
+#: elementor-widgets/contact-form-7-layout-two.php:184
+#: elementor-widgets/button-widget.php:323
+#: elementor-widgets/brand-image-slider-widget.php:262
+#: elementor-widgets/section-title-widget.php:216
+#: elementor-widgets/team-details-widget.php:168
+#: elementor-widgets/title-with-text-widget.php:166
+msgid "Wrapper"
+msgstr ""
+
+#: elementor-widgets/three-image-with-circle-button-widget.php:110
+#: elementor-widgets/brand-image-slider-widget.php:270
+msgid "Wrapper Height"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:89
+#: elementor-widgets/counter-up-widget.php:366
+#: elementor-widgets/accordion-widget.php:183
+#: elementor-widgets/testimonial-slider-two-widget.php:253
+#: elementor-widgets/contact-form-7-layout-two.php:203
+#: elementor-widgets/button-widget.php:364
+#: elementor-widgets/doctio-text-widget.php:193
+#: elementor-widgets/title-with-text-widget.php:174
+msgid "Wrapper Margin"
+msgstr ""
+
+#: elementor-widgets/contact-form-7.php:101
+#: elementor-widgets/counter-up-widget.php:379
+#: elementor-widgets/cta-one-widget.php:79
+#: elementor-widgets/contact-form-7-layout-two.php:215
+#: elementor-widgets/service-box-two-widget.php:327
+#: elementor-widgets/team-details-widget.php:187
+msgid "Wrapper Padding"
+msgstr ""
+
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:50
+msgid "X Position"
+msgstr ""
+
+#: elementor-widgets/controls/elementor-section-image/elementor-section-images.php:111
+msgid "Y Position"
+msgstr ""
+
+#: elementor-widgets/video-popup-widget.php:62
+#: elementor-widgets/team-member-one-widget.php:115
+#: elementor-widgets/pricing-table-widget.php:174
+#: elementor-widgets/accordion-widget.php:87
+#: elementor-widgets/home-slider-widget.php:282
+#: elementor-widgets/team-member-two-widget.php:118
+#: elementor-widgets/brand-image-slider-widget.php:42
+#: elementor-widgets/brand-image-slider-widget.php:292
+#: elementor-widgets/recent-posts-widget.php:126
+#: elementor-widgets/team-details-widget.php:104
+#: elementor-widgets/team-details-widget.php:115
+#: elementor-widgets/team-details-widget.php:126
+#: inc/widgets/gallery-widget.php:29
+msgid "Yes"
+msgstr ""
+
+#: inc/post-share.php:14
+msgid "You can share this post!"
+msgstr ""
+
+#: elementor-widgets/counter-up-widget.php:267
+msgid "Z-Index"
+msgstr ""
