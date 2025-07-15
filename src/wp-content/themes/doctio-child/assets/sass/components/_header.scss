@@ -1,0 +1,12 @@
+.header-style-two {
+  .main-menu-area {
+    .site-branding {
+      img {
+        object-fit: scale-down;
+        @include mobile {
+          width: 310px;
+        }
+      }
+    }
+  }
+}
