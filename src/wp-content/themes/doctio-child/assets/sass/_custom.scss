@@ -1,3 +1,11 @@
+.home-banner-slider {
+  .td-single-slide-item {
+      img {
+        pointer-events: none;
+        user-select: none;
+      }
+  }
+}
 .home-services {
   .row {
     @include desktop {
