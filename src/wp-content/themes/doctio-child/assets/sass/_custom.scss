@@ -14,7 +14,16 @@
 .contact-info {
   .contact-details {
     .td-contact-details-box-icon {
-      box-shadow: -10px 10px #3F3FF9;
+      box-shadow: -10px 10px #3f3ff9;
+    }
+  }
+}
+.widget_themedraft-recent-posts {
+  .td-recent-post-widget {
+    li {
+      img {
+        object-fit: cover;
+      }
     }
   }
 }
